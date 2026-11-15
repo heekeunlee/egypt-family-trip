@@ -1,0 +1,74 @@
+.splash {
+  position: fixed; inset: 0; z-index: 100;
+  display: flex; flex-direction: column; align-items: center; justify-content: space-between;
+  padding: max(14vh, 64px) 0 0; cursor: pointer; color: #fff; text-align: center; overflow: hidden;
+  background: linear-gradient(180deg, #0a1730 0%, #173d72 38%, #3f6aa0 58%, #e39a52 82%, #f4c27a 100%);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.splash.leave { opacity: 0; transform: scale(1.05); pointer-events: none; }
+.splash-art { width: min(560px, 100vw); height: auto; overflow: visible; display: block; flex: 0 0 auto; }
+.splash-art * { transform-box: fill-box; }
+
+/* 하늘 */
+.star { fill: #fff8de; animation: twinkle 1.6s ease-in-out infinite alternate; }
+.sun { opacity: 0; transform-origin: center; animation: sun-rise 1.6s 0.1s ease-out forwards; }
+.birds { fill: none; stroke: #2a1d04; stroke-width: 1.5; stroke-linecap: round; opacity: 0;
+  transform: translate(330px, 70px); animation: birds 3.6s 0.6s ease-in-out forwards; }
+
+/* 피라미드 */
+.pyr { opacity: 0; transform-origin: 50% 100%; animation: rise 0.9s cubic-bezier(0.2, 0.9, 0.25, 1.2) forwards; }
+.pyr.p1 { animation-delay: 0.3s; }
+.pyr.p2 { animation-delay: 0.55s; }
+.pyr.p3 { animation-delay: 0.8s; }
+.outline { fill: none; stroke: #fff1b8; stroke-width: 2; stroke-linejoin: round;
+  stroke-dasharray: 400; stroke-dashoffset: 400; animation: draw 1.2s 0.9s ease forwards; }
+.cap { fill: #fff1b8; opacity: 0; animation: shine 0.8s 1.6s ease forwards; }
+
+/* 사막 */
+.dune.back { fill: #d89a4d; }
+.dune.front { fill: #eab86c; }
+
+/* 스핑크스 */
+.sphinx { opacity: 0; transform-origin: 50% 100%; animation: pop 0.7s 1s cubic-bezier(0.3, 1.5, 0.5, 1) forwards; }
+.sphinx-body { fill: #c98b42; }
+.nemes { stroke: #2f6fb5; stroke-width: 2.4; opacity: 0.85; }
+.face { fill: #dca15a; }
+.eye { fill: #2a1d04; transform-origin: center; animation: blink 3s 1.8s infinite; }
+.beard { fill: #2f6fb5; }
+.paw-line { stroke: #9a6427; stroke-width: 1.2; }
+
+/* 말풍선 */
+.bubble { opacity: 0; transform-origin: 70% 100%; animation: pop 0.5s 1.7s cubic-bezier(0.3, 1.6, 0.5, 1) forwards; }
+.bubble rect, .bubble path { fill: #fffaf0; }
+.bubble text { font-size: 11.5px; font-weight: 800; fill: #2a1d04; font-family: inherit; }
+
+/* 낙타 행렬 */
+.camel { animation: bob 0.45s ease-in-out infinite alternate; }
+.camel-body { fill: #5a3614; }
+.camel-tail { fill: none; stroke: #5a3614; stroke-width: 2; stroke-linecap: round; }
+.leg { stroke: #5a3614; stroke-width: 3; stroke-linecap: round; transform-origin: 50% 0; }
+.leg.a { animation: step 0.45s ease-in-out infinite alternate; }
+.leg.b { animation: step 0.45s ease-in-out infinite alternate-reverse; }
+
+/* 텍스트 */
+.splash-text { padding: 0 16px; opacity: 0; animation: fade-up 0.8s 1.3s ease forwards; }
+.splash-text h1 { margin: 2px 0; font-size: clamp(28px, 7vw, 42px); letter-spacing: -0.02em; text-shadow: 0 2px 14px rgba(0, 0, 0, 0.3); }
+.sp-eyebrow { margin: 0; letter-spacing: 0.2em; font-size: 12px; color: #fff3d1; }
+.sp-sub { margin: 0; color: #ffe2a8; font-weight: 700; }
+.sp-skip { position: absolute; bottom: max(20px, env(safe-area-inset-bottom)); font-size: 12px; color: rgba(42, 29, 4, 0.6); }
+
+@keyframes twinkle { from { opacity: 0.25; } to { opacity: 1; } }
+@keyframes sun-rise { from { opacity: 0; transform: translateY(50px) scale(0.8); } to { opacity: 1; transform: none; } }
+@keyframes birds { 0% { opacity: 0; transform: translate(330px, 70px); } 20% { opacity: 1; } 100% { opacity: 0.9; transform: translate(40px, 40px); } }
+@keyframes rise { from { opacity: 0; transform: translateY(26px) scaleY(0.5); } to { opacity: 1; transform: none; } }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+@keyframes shine { 0% { opacity: 0; } 50% { opacity: 1; filter: drop-shadow(0 0 6px #fff1b8); } 100% { opacity: 1; } }
+@keyframes pop { from { opacity: 0; transform: scale(0.4); } to { opacity: 1; transform: none; } }
+@keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 96% { transform: scaleY(0.1); } }
+@keyframes bob { from { transform: translateY(0); } to { transform: translateY(-1.6px); } }
+@keyframes step { from { transform: rotate(14deg); } to { transform: rotate(-14deg); } }
+@keyframes fade-up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .splash *, .splash { animation-duration: 0.01s !important; animation-delay: 0s !important; animation-iteration-count: 1 !important; }
+}

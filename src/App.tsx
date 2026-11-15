@@ -1,7 +1,8 @@
-import { useEffect, useMemo, useState, type ReactNode } from 'react'
+import { useCallback, useEffect, useMemo, useState, type ReactNode } from 'react'
 import {
   CAUTIONS, DAISO, DAYS, FLIGHTS, HONEY_TIPS, MEDS, MONEY, OPTIONS, PACKING, PHRASES, SOURCES, TRIP,
 } from './data'
+import Splash from './Splash'
 
 const TABS = [
   { id: 'home', label: '한눈에', icon: '🏠' },
@@ -47,11 +48,14 @@ export default function App() {
   const [tab, setTab] = useStored<TabId>('eg-tab', 'home')
   const [checked, setChecked] = useStored<Record<string, boolean>>('eg-check', {})
   const toggle = (k: string) => setChecked({ ...checked, [k]: !checked[k] })
+  const [splash, setSplash] = useState(true)
+  const hideSplash = useCallback(() => setSplash(false), [])
 
   useEffect(() => window.scrollTo({ top: 0 }), [tab])
 
   return (
     <div className="app">
+      {splash && <Splash onDone={hideSplash} />}
       <header className="hero">
         <div className="hero-inner">
           <p className="eyebrow">2026 가족여행 · 7박 9일</p>
