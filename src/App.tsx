@@ -4,6 +4,7 @@ import {
 } from './data'
 import Splash from './Splash'
 import Guide from './Guide'
+import { guideFromHash } from './guideIndex'
 
 const TABS = [
   { id: 'home', label: '한눈에', icon: '🏠' },
@@ -51,16 +52,16 @@ export default function App() {
   const toggle = (k: string) => setChecked({ ...checked, [k]: !checked[k] })
   const [splash, setSplash] = useState(true)
   const hideSplash = useCallback(() => setSplash(false), [])
-  const [guide, setGuide] = useState(() => window.location.hash.startsWith('#alexandria'))
+  const [guide, setGuide] = useState(() => guideFromHash(window.location.hash))
   useEffect(() => {
-    const onHash = () => setGuide(window.location.hash.startsWith('#alexandria'))
+    const onHash = () => setGuide(guideFromHash(window.location.hash))
     window.addEventListener('hashchange', onHash)
     return () => window.removeEventListener('hashchange', onHash)
   }, [])
-  const openGuide = () => { window.location.hash = 'alexandria' }
+  const openGuide = (target: string) => { window.location.hash = target }
   const closeGuide = useCallback(() => {
-    if (window.location.hash.startsWith('#alexandria')) window.history.back()
-    else setGuide(false)
+    if (guideFromHash(window.location.hash)) window.history.back()
+    else setGuide(null)
   }, [])
 
   useEffect(() => window.scrollTo({ top: 0 }), [tab])
@@ -68,7 +69,7 @@ export default function App() {
   return (
     <div className="app">
       {splash && <Splash onDone={hideSplash} />}
-      {guide && <Guide onClose={closeGuide} />}
+      {guide && <Guide key={guide} id={guide} onClose={closeGuide} />}
       <header className="hero">
         <div className="hero-inner">
           <p className="eyebrow">2026 가족여행 · 7박 9일</p>
@@ -202,7 +203,7 @@ function Home({ go, checked }: { go: (t: TabId) => void; checked: Record<string,
   )
 }
 
-function Days({ openGuide }: { openGuide: () => void }) {
+function Days({ openGuide }: { openGuide: (target: string) => void }) {
   const [open, setOpen] = useState<number | null>(null)
   return (
     <Section title="일자별 일정" lead="일정표 기준 예상 일정 · 호텔/순서는 현지 사정으로 변경될 수 있어요.">
@@ -227,7 +228,7 @@ function Days({ openGuide }: { openGuide: () => void }) {
                           <ul>{it.detail.map((x) => <li key={x}>{x}</li>)}</ul>
                         )}
                         {it.guide && (
-                          <div><button className="guide-btn" onClick={openGuide}>📖 관광지 상세 가이드 보기</button></div>
+                          <div><button className="guide-btn" onClick={() => openGuide(it.guide!)}>📖 상세 가이드 보기</button></div>
                         )}
                       </li>
                     ))}

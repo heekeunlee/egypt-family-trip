@@ -114,3 +114,4 @@
 }
 .guide-btn:hover { filter: brightness(1.05); }
 .g-count { font-size: 13px; font-weight: 600; color: var(--muted); margin-left: 6px; }
+.g-lead { margin: -4px 0 10px; color: var(--muted); }

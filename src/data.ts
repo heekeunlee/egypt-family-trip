@@ -36,7 +36,7 @@ export type Day = {
   date: string
   route: string
   stay: string
-  items: { time?: string; title: string; detail?: string[]; guide?: 'alexandria' }[]
+  items: { time?: string; title: string; detail?: string[]; guide?: string }[]
   tip: string
   weather?: string
 }
@@ -70,10 +70,11 @@ export const DAYS: Day[] = [
     items: [
       {
         title: '그랜드 이집션 뮤지엄 (GEM) 내부 관람',
+        guide: 'giza/1',
         detail: ['투탕카멘 전시실·황금 마스크, 대계단, 람세스 2세 거상', '현지 사정상 불가 시 이집트 국립박물관으로 대체'],
       },
-      { title: '기자 피라미드 (쿠푸·카프레·멘카우레) & 스핑크스' },
-      { title: '[선택] 쿠푸 피라미드 내부 + 문명박물관 €150' },
+      { title: '기자 피라미드 (쿠푸·카프레·멘카우레) & 스핑크스', guide: 'giza/2' },
+      { title: '[선택] 쿠푸 피라미드 내부 + 문명박물관 €150', guide: 'giza' },
     ],
     tip: 'GEM은 투탕카멘 갤러리부터 보면 줄이 짧습니다. 피라미드 앞 낙타·사진 호객은 "라 슈크란(괜찮아요)"으로 단호하게.',
   },

@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
-import { ALEX_DAY_TIPS, ALEX_INTRO, SPOTS, type Photo, type Spot } from './guides'
+import type { Photo, Spot } from './guides'
+import { GUIDES, type DayGuide } from './guideIndex'
 import './Guide.css'
 
 function Figure({ p, onZoom, hero = false }: { p: Photo; onZoom: (p: Photo) => void; hero?: boolean }) {
@@ -28,12 +29,12 @@ function Quiz({ q, a }: { q: string; a: string }) {
   )
 }
 
-function SpotPage({ s, onZoom, idx }: { s: Spot; onZoom: (p: Photo) => void; idx: number }) {
+function SpotPage({ s, onZoom, idx, total }: { s: Spot; onZoom: (p: Photo) => void; idx: number; total: number }) {
   return (
     <article className="g-spot">
       <Figure p={s.hero} onZoom={onZoom} hero />
       <header className="g-spot-head">
-        <span className="g-step">관광지 {idx + 1} / 3</span>
+        <span className="g-step">관광지 {idx + 1} / {total}</span>
         <h2>{s.name}</h2>
         <p className="g-names">{s.en} · <span dir="rtl">{s.ar}</span></p>
         <p className="g-tagline">{s.tagline}</p>
@@ -82,25 +83,25 @@ function SpotPage({ s, onZoom, idx }: { s: Spot; onZoom: (p: Photo) => void; idx
   )
 }
 
-function Intro({ onZoom, go }: { onZoom: (p: Photo) => void; go: (i: number) => void }) {
+function Intro({ g, onZoom, go }: { g: DayGuide; onZoom: (p: Photo) => void; go: (i: number) => void }) {
   return (
     <article className="g-spot">
-      <Figure p={ALEX_INTRO.hero} onZoom={onZoom} hero />
+      <Figure p={g.intro.hero} onZoom={onZoom} hero />
       <header className="g-spot-head">
-        <span className="g-step">DAY 1 · 11/21(토)</span>
-        <h2>{ALEX_INTRO.title}</h2>
-        <p className="g-tagline">{ALEX_INTRO.lead}</p>
+        <span className="g-step">{g.step}</span>
+        <h2>{g.intro.title}</h2>
+        <p className="g-tagline">{g.intro.lead}</p>
       </header>
 
       <div className="g-points">
-        {ALEX_INTRO.points.map((p) => (
+        {g.intro.points.map((p) => (
           <div className="g-card" key={p.title}><b>{p.icon} {p.title}</b><p>{p.text}</p></div>
         ))}
       </div>
 
       <h3 className="g-h">📍 오늘 갈 곳</h3>
       <div className="g-spotlist">
-        {SPOTS.map((s, i) => (
+        {g.spots.map((s, i) => (
           <button key={s.id} className="g-spotbtn" onClick={() => go(i + 1)}>
             <img src={s.hero.src} alt="" loading="lazy" />
             <span><small>{i + 1}</small><b>{s.name}</b><em>{s.tagline}</em></span>
@@ -108,16 +109,34 @@ function Intro({ onZoom, go }: { onZoom: (p: Photo) => void; go: (i: number) => 
         ))}
       </div>
 
-      <h3 className="g-h">⏳ 알렉산드리아 2,300년 연표</h3>
+      {g.extra && (
+        <>
+          <h3 className="g-h">{g.extra.title}</h3>
+          <p className="g-lead">{g.extra.lead}</p>
+          <div className="g-two">
+            {g.extra.items.map((it) => (
+              <section className="g-card" key={it.name}>
+                <h4>{it.name} <small className="g-count">{it.meta}</small></h4>
+                <ul>{it.points.map((t) => <li key={t}>{t}</li>)}</ul>
+              </section>
+            ))}
+          </div>
+          <div className="g-gallery" style={{ marginTop: 12 }}>
+            {g.extra.photos.map((p) => <Figure key={p.src} p={p} onZoom={onZoom} />)}
+          </div>
+        </>
+      )}
+
+      <h3 className="g-h">⏳ {g.timelineTitle}</h3>
       <ol className="g-timeline">
-        {ALEX_INTRO.timeline.map((t) => (
+        {g.intro.timeline.map((t) => (
           <li key={t.y}><b>{t.y}</b><span>{t.t}</span></li>
         ))}
       </ol>
 
-      <h3 className="g-h">✅ 첫날 체크포인트</h3>
+      <h3 className="g-h">✅ 오늘의 체크포인트</h3>
       <div className="g-points">
-        {ALEX_DAY_TIPS.map((t) => (
+        {g.dayTips.map((t) => (
           <div className="g-card" key={t.title}><b>{t.icon} {t.title}</b><p>{t.text}</p></div>
         ))}
       </div>
@@ -125,10 +144,11 @@ function Intro({ onZoom, go }: { onZoom: (p: Photo) => void; go: (i: number) => 
   )
 }
 
-export default function Guide({ onClose }: { onClose: () => void }) {
-  const [tab, setTab] = useState(() => Math.min(3, Math.max(0, Number(window.location.hash.split('/')[1]) || 0)))
+export default function Guide({ id, onClose }: { id: string; onClose: () => void }) {
+  const g = GUIDES[id] ?? GUIDES.alexandria
+  const [tab, setTab] = useState(() => Math.min(g.spots.length, Math.max(0, Number(window.location.hash.split('/')[1]) || 0)))
   const [zoom, setZoom] = useState<Photo | null>(null)
-  const tabs = ['개요', ...SPOTS.map((s) => s.name.replace('콤 엘 쇼카파 ', ''))]
+  const tabs = ['개요', ...g.spots.map((s) => s.short ?? s.name)]
 
   useEffect(() => {
     const prev = document.body.style.overflow
@@ -149,10 +169,10 @@ export default function Guide({ onClose }: { onClose: () => void }) {
   }
 
   return (
-    <div className="g-overlay" role="dialog" aria-modal="true" aria-label="알렉산드리아 상세 가이드">
+    <div className="g-overlay" role="dialog" aria-modal="true" aria-label={`${g.label} 상세 가이드`}>
       <div className="g-top">
         <button className="g-close" onClick={onClose} aria-label="닫기">←</button>
-        <b>알렉산드리아 상세 가이드</b>
+        <b>{g.label} 상세 가이드</b>
       </div>
       <nav className="g-tabs">
         {tabs.map((t, i) => (
@@ -160,7 +180,7 @@ export default function Guide({ onClose }: { onClose: () => void }) {
         ))}
       </nav>
       <div className="g-scroll">
-        {tab === 0 ? <Intro onZoom={setZoom} go={go} /> : <SpotPage s={SPOTS[tab - 1]} idx={tab - 1} onZoom={setZoom} />}
+        {tab === 0 ? <Intro g={g} onZoom={setZoom} go={go} /> : <SpotPage s={g.spots[tab - 1]} idx={tab - 1} total={g.spots.length} onZoom={setZoom} />}
         <div className="g-pager">
           {tab > 0 && <button onClick={() => go(tab - 1)}>← {tabs[tab - 1]}</button>}
           <span />

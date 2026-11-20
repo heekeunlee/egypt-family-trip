@@ -5,6 +5,7 @@ export type Photo = { src: string; caption: string; credit: string; page: string
 export type Spot = {
   id: string
   name: string
+  short?: string
   en: string
   ar: string
   tagline: string
@@ -53,6 +54,7 @@ export const SPOTS: Spot[] = [
   {
     id: 'catacomb',
     name: '콤 엘 쇼카파 카타콤',
+    short: '카타콤',
     en: 'Catacombs of Kom El Shoqafa',
     ar: 'مقابر كوم الشقافة',
     tagline: '이집트 신이 로마 갑옷을 입은, 세 문명이 섞인 지하 무덤',
