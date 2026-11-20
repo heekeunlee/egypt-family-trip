@@ -115,3 +115,9 @@
 .guide-btn:hover { filter: brightness(1.05); }
 .g-count { font-size: 13px; font-weight: 600; color: var(--muted); margin-left: 6px; }
 .g-lead { margin: -4px 0 10px; color: var(--muted); }
+.g-look li.has-pic { display: grid; grid-template-columns: 132px 1fr; gap: 14px; align-items: start; padding: 10px; }
+.g-look li > div { display: flex; flex-direction: column; }
+.g-thumb { padding: 0; border: 0; border-radius: 10px; overflow: hidden; cursor: zoom-in; background: var(--sand-2); }
+.g-thumb img { display: block; width: 132px; height: 99px; object-fit: cover; }
+.g-note { color: var(--muted); font-size: 12px; margin-top: 4px; }
+@media (max-width: 480px) { .g-look li.has-pic { grid-template-columns: 104px 1fr; gap: 10px; } .g-thumb img { width: 104px; height: 78px; } }

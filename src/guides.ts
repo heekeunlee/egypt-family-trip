@@ -12,7 +12,7 @@ export type Spot = {
   hero: Photo
   facts: { k: string; v: string }[]
   story: { title: string; body: string[] }[]
-  look: { title: string; desc: string }[]
+  look: { title: string; desc: string; pic?: string; note?: string }[]
   photos: Photo[]
   tips: string[]
   kids: string[]
@@ -103,14 +103,15 @@ export const SPOTS: Spot[] = [
       },
     ],
     look: [
-      { title: '① 원형 계단과 중앙 통로', desc: '가운데가 뚫린 나선형 계단. 시신을 밧줄로 이 통로에 내려보냈습니다. 위를 올려다보며 사진 한 장!' },
-      { title: '② 트리클리니움 (장례 연회장)', desc: '입구 왼쪽, 돌 침상이 ㄷ자로 놓인 방. 가족이 쿠션을 깔고 누워 고인을 기리며 식사하던 곳입니다.' },
-      { title: '③ 주 무덤 입구의 뱀 수호신', desc: '문 양옆의 큰 뱀(아가토다이몬). 이집트 왕관 + 그리스 지팡이 + 로마 메두사 방패를 한 몸에 가진, 이곳의 상징입니다.' },
-      { title: '④ 로마 갑옷을 입은 아누비스', desc: '자칼 머리의 이집트 저승신 아누비스가 로마 군인 복장을 하고 서 있습니다. 이곳에서 가장 유명한 장면.' },
-      { title: '⑤ 미라를 만드는 아누비스 부조', desc: '석관 위 벽면에 사자 모양 침대에 누운 미라와 이를 돌보는 아누비스가 새겨져 있습니다.' },
-      { title: '⑥ 수백 개의 벽감(로쿨리)', desc: '복도 벽에 사물함처럼 파인 칸 하나하나가 시신을 안치하던 자리입니다.' },
+      { pic: "Catacombs_de_Kom_al_Shogafa_1", title: '① 원형 계단과 중앙 통로', desc: '가운데가 뚫린 나선형 계단. 시신을 밧줄로 이 통로에 내려보냈습니다. 위를 올려다보며 사진 한 장!' },
+      { pic: "Level_1_of_the_Catacombs_of_Kom_El_Shoqafa.jpg", note: "트리클리니움 사진이 없어 바로 옆 원형 통로 사진으로 대신합니다.", title: '② 트리클리니움 (장례 연회장)', desc: '입구 왼쪽, 돌 침상이 ㄷ자로 놓인 방. 가족이 쿠션을 깔고 누워 고인을 기리며 식사하던 곳입니다.' },
+      { pic: "Agathosdaimon", title: '③ 주 무덤 입구의 뱀 수호신', desc: '문 양옆의 큰 뱀(아가토다이몬). 이집트 왕관 + 그리스 지팡이 + 로마 메두사 방패를 한 몸에 가진, 이곳의 상징입니다.' },
+      { pic: "anthropomorphic_Anubis", title: '④ 로마 갑옷을 입은 아누비스', desc: '자칼 머리의 이집트 저승신 아누비스가 로마 군인 복장을 하고 서 있습니다. 이곳에서 가장 유명한 장면.' },
+      { pic: "Anubis_mummifying", title: '⑤ 미라를 만드는 아누비스 부조', desc: '석관 위 벽면에 사자 모양 침대에 누운 미라와 이를 돌보는 아누비스가 새겨져 있습니다.' },
+      { pic: "Catacombs_of_Kom_El_Shoqafa_08", title: '⑥ 수백 개의 벽감(로쿨리)', desc: '복도 벽에 사물함처럼 파인 칸 하나하나가 시신을 안치하던 자리입니다.' },
     ],
     photos: [
+      { src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/113KOM_EL_SHOQAFA_CATACOMBS_%28anthropomorphic_Anubis_in_Roman_military_dress%29.jpg/960px-113KOM_EL_SHOQAFA_CATACOMBS_%28anthropomorphic_Anubis_in_Roman_military_dress%29.jpg", caption: "로마 군인 갑옷을 입고 창을 든 아누비스. 이집트 신 + 로마 복장의 대표 장면입니다.", credit: "Jerrye & Roy Klotz, MD · CC BY-SA 3.0", page: "https://commons.wikimedia.org/wiki/File:113KOM_EL_SHOQAFA_CATACOMBS_(anthropomorphic_Anubis_in_Roman_military_dress).jpg" },
       {
         src: `${W}/c/ca/Anubis_mummifying_a_body_in_the_Catacombs_of_Kom_El_Shoqafa.jpg/1280px-Anubis_mummifying_a_body_in_the_Catacombs_of_Kom_El_Shoqafa.jpg`,
         caption: '주 무덤 석관 위 부조: 사자 침대 위 미라와 아누비스. 순수한 이집트식 장면이지만 주변 장식은 그리스·로마풍입니다.',
@@ -225,13 +226,14 @@ export const SPOTS: Spot[] = [
       },
     ],
     look: [
-      { title: '① 기둥 몸통', desc: '이음매가 없는 통돌인지 직접 확인해 보세요. 3일차에 갈 아스완 채석장 출신입니다.' },
-      { title: '② 코린트식 기둥머리', desc: '꼭대기의 잎사귀 장식. 여기에 황제 석상이 서 있었습니다.' },
-      { title: '③ 화강암 스핑크스 한 쌍', desc: '기둥 옆을 지키는 프톨레마이오스 시대 스핑크스. 2일차 기자의 대스핑크스와 비교해 보세요.' },
-      { title: '④ 세라페움 유적과 지하 회랑', desc: '언덕 곳곳의 유적, 그리고 도서관 흔적으로 알려진 지하 통로(개방 여부는 현장 상황에 따라 다름).' },
-      { title: '⑤ 받침대의 그리스어 비문', desc: '"폼페이우스" 오해를 만든 바로 그 글자. 기둥 서쪽 받침대에서 찾아보세요.' },
+      { pic: "e/e6/Pompey%27s_Pillar_Alexandria.jpg", title: '① 기둥 몸통', desc: '이음매가 없는 통돌인지 직접 확인해 보세요. 3일차에 갈 아스완 채석장 출신입니다.' },
+      { pic: "English_Sailors", title: '② 코린트식 기둥머리', desc: '꼭대기의 잎사귀 장식. 여기에 황제 석상이 서 있었습니다.' },
+      { pic: "Sphinxes_at_the_Serapeum", title: '③ 화강암 스핑크스 한 쌍', desc: '기둥 옆을 지키는 프톨레마이오스 시대 스핑크스. 2일차 기자의 대스핑크스와 비교해 보세요.' },
+      { pic: "Roman_Pompey", note: "지하 회랑 사진이 없어 세라페움 유적 전경으로 대신합니다.", title: '④ 세라페움 유적과 지하 회랑', desc: '언덕 곳곳의 유적, 그리고 도서관 흔적으로 알려진 지하 통로(개방 여부는 현장 상황에 따라 다름).' },
+      { pic: "Diocletian_column", title: '⑤ 받침대의 그리스어 비문', desc: '"폼페이우스" 오해를 만든 바로 그 글자. 기둥 서쪽 받침대에서 찾아보세요.' },
     ],
     photos: [
+      { src: "https://upload.wikimedia.org/wikipedia/commons/1/17/Pompey%27s_Pillar%2C_shewing_the_mode_by_which_some_English_Sailors_first_gained_an_ascent_to_the_capital_of_the_Column_-_Clarke_Edward_Daniel_-_1813.jpg", caption: "1813년 판화: 영국 수병들이 연으로 밧줄을 걸어 기둥 꼭대기(코린트식 기둥머리)에 올라간 방법을 그린 그림.", credit: "Edward Daniel Clarke · Public domain", page: "https://commons.wikimedia.org/wiki/File:Pompey%27s_Pillar,_shewing_the_mode_by_which_some_English_Sailors_first_gained_an_ascent_to_the_capital_of_the_Column_-_Clarke_Edward_Daniel_-_1813.jpg" },
       {
         src: `${W}/7/76/Sphinxes_at_the_Serapeum_of_Alexandria_%28II%29.jpg/1280px-Sphinxes_at_the_Serapeum_of_Alexandria_%28II%29.jpg`,
         caption: '세라페움 언덕의 화강암 스핑크스. 기자의 대스핑크스보다 훨씬 작지만 표정이 또렷합니다.',
@@ -326,11 +328,11 @@ export const SPOTS: Spot[] = [
       },
     ],
     look: [
-      { title: '① 정면 성채와 4개의 둥근 탑', desc: '네모난 중앙 성채 모서리의 원통형 탑. 맘루크 군사 건축의 전형입니다.' },
-      { title: '② 아치형 성문', desc: '성문 아치 안에 요새를 액자처럼 넣어 찍는 것이 인기 구도입니다.' },
-      { title: '③ 방파제와 지중해', desc: '요새 옆 방파제에서 바라보는 지중해. 날씨가 좋으면 물빛이 에메랄드색이에요.' },
-      { title: '④ 동항의 알록달록 어선', desc: '요새에서 코니시 쪽으로 보이는 항구의 파랑·노랑 어선들.' },
-      { title: '⑤ 코니시 전경', desc: '반달 모양으로 휘어진 해안도로와 유럽풍 건물들. 알렉산드리아가 "지중해의 신부"라 불리는 이유입니다.' },
+      { pic: "Front_View_of_Citadel", title: '① 정면 성채와 4개의 둥근 탑', desc: '네모난 중앙 성채 모서리의 원통형 탑. 맘루크 군사 건축의 전형입니다.' },
+      { pic: "Citadel_of_Qaitbay_alexandria.jpg", title: '② 아치형 성문', desc: '성문 아치 안에 요새를 액자처럼 넣어 찍는 것이 인기 구도입니다.' },
+      { pic: "A_view_of_Alexandria_from_the_Citadel", title: '③ 방파제와 지중해', desc: '요새 옆 방파제에서 바라보는 지중해. 날씨가 좋으면 물빛이 에메랄드색이에요.' },
+      { pic: "알록달록한 어선", title: '④ 동항의 알록달록 어선', desc: '요새에서 코니시 쪽으로 보이는 항구의 파랑·노랑 어선들.' },
+      { pic: "Alexandria_Corniche_at_Dusk", title: '⑤ 코니시 전경', desc: '반달 모양으로 휘어진 해안도로와 유럽풍 건물들. 알렉산드리아가 "지중해의 신부"라 불리는 이유입니다.' },
     ],
     photos: [
       {

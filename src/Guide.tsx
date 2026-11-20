@@ -29,7 +29,8 @@ function Quiz({ q, a }: { q: string; a: string }) {
   )
 }
 
-function SpotPage({ s, onZoom, idx, total }: { s: Spot; onZoom: (p: Photo) => void; idx: number; total: number }) {
+function SpotPage({ s, onZoom, idx, total, pool }: { s: Spot; onZoom: (p: Photo) => void; idx: number; total: number; pool: Photo[] }) {
+  const find = (key?: string) => (key ? pool.find((p) => p.src.includes(key) || p.caption.includes(key)) : undefined)
   return (
     <article className="g-spot">
       <Figure p={s.hero} onZoom={onZoom} hero />
@@ -58,9 +59,23 @@ function SpotPage({ s, onZoom, idx, total }: { s: Spot; onZoom: (p: Photo) => vo
 
       <h3 className="g-h">👀 현장에서 꼭 볼 것</h3>
       <ol className="g-look">
-        {s.look.map((l) => (
-          <li key={l.title}><b>{l.title}</b><span>{l.desc}</span></li>
-        ))}
+        {s.look.map((l) => {
+          const p = find(l.pic)
+          return (
+            <li key={l.title} className={p ? 'has-pic' : ''}>
+              {p && (
+                <button className="g-thumb" onClick={() => onZoom(p)} aria-label={`${l.title} 사진 크게 보기`}>
+                  <img src={p.src} alt={p.caption} loading="lazy" decoding="async" />
+                </button>
+              )}
+              <div>
+                <b>{l.title}</b>
+                <span>{l.desc}</span>
+                {l.note && <small className="g-note">※ {l.note}</small>}
+              </div>
+            </li>
+          )
+        })}
       </ol>
 
       <h3 className="g-h">🖼 사진으로 미리 보기 <small className="g-count">{s.photos.length}장 · 탭하면 크게</small></h3>
@@ -180,7 +195,7 @@ export default function Guide({ id, onClose }: { id: string; onClose: () => void
         ))}
       </nav>
       <div className="g-scroll">
-        {tab === 0 ? <Intro g={g} onZoom={setZoom} go={go} /> : <SpotPage s={g.spots[tab - 1]} idx={tab - 1} total={g.spots.length} onZoom={setZoom} />}
+        {tab === 0 ? <Intro g={g} onZoom={setZoom} go={go} /> : <SpotPage s={g.spots[tab - 1]} idx={tab - 1} total={g.spots.length} onZoom={setZoom} pool={[g.intro.hero, ...g.spots.flatMap((x) => [x.hero, ...x.photos]), ...(g.extra?.photos ?? [])]} />}
         <div className="g-pager">
           {tab > 0 && <button onClick={() => go(tab - 1)}>← {tabs[tab - 1]}</button>}
           <span />
