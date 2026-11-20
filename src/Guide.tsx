@@ -62,7 +62,7 @@ function SpotPage({ s, onZoom, idx }: { s: Spot; onZoom: (p: Photo) => void; idx
         ))}
       </ol>
 
-      <h3 className="g-h">🖼 사진으로 미리 보기</h3>
+      <h3 className="g-h">🖼 사진으로 미리 보기 <small className="g-count">{s.photos.length}장 · 탭하면 크게</small></h3>
       <div className="g-gallery">
         {s.photos.map((p) => <Figure key={p.src} p={p} onZoom={onZoom} />)}
       </div>

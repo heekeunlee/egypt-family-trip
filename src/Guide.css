@@ -113,3 +113,4 @@
   box-shadow: 0 2px 8px rgba(200, 150, 46, 0.35);
 }
 .guide-btn:hover { filter: brightness(1.05); }
+.g-count { font-size: 13px; font-weight: 600; color: var(--muted); margin-left: 6px; }
