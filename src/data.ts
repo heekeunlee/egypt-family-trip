@@ -36,7 +36,7 @@ export type Day = {
   date: string
   route: string
   stay: string
-  items: { time?: string; title: string; detail?: string[] }[]
+  items: { time?: string; title: string; detail?: string[]; guide?: 'alexandria' }[]
   tip: string
   weather?: string
 }
@@ -54,6 +54,7 @@ export const DAYS: Day[] = [
       { time: '09:20', title: 'QR1315 도하 출발 → 12:20 알렉산드리아 도착', detail: ['도착비자 스티커 발급 (US$ 현금)'] },
       {
         title: '알렉산드리아 관광',
+        guide: 'alexandria',
         detail: ['카타콤 (지하 무덤, 내부 촬영 제한 가능)', '폼페이우스 기둥', '카이트베이 요새 (외관) · 지중해 조망'],
       },
       { title: '카이로 이동 (약 2시간 30분) · 호텔 휴식' },

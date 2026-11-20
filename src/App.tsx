@@ -3,6 +3,7 @@ import {
   CAUTIONS, DAISO, DAYS, FLIGHTS, HONEY_TIPS, MEDS, MONEY, OPTIONS, PACKING, PHRASES, SOURCES, TRIP,
 } from './data'
 import Splash from './Splash'
+import Guide from './Guide'
 
 const TABS = [
   { id: 'home', label: '한눈에', icon: '🏠' },
@@ -50,12 +51,24 @@ export default function App() {
   const toggle = (k: string) => setChecked({ ...checked, [k]: !checked[k] })
   const [splash, setSplash] = useState(true)
   const hideSplash = useCallback(() => setSplash(false), [])
+  const [guide, setGuide] = useState(() => window.location.hash.startsWith('#alexandria'))
+  useEffect(() => {
+    const onHash = () => setGuide(window.location.hash.startsWith('#alexandria'))
+    window.addEventListener('hashchange', onHash)
+    return () => window.removeEventListener('hashchange', onHash)
+  }, [])
+  const openGuide = () => { window.location.hash = 'alexandria' }
+  const closeGuide = useCallback(() => {
+    if (window.location.hash.startsWith('#alexandria')) window.history.back()
+    else setGuide(false)
+  }, [])
 
   useEffect(() => window.scrollTo({ top: 0 }), [tab])
 
   return (
     <div className="app">
       {splash && <Splash onDone={hideSplash} />}
+      {guide && <Guide onClose={closeGuide} />}
       <header className="hero">
         <div className="hero-inner">
           <p className="eyebrow">2026 가족여행 · 7박 9일</p>
@@ -80,7 +93,7 @@ export default function App() {
 
       <main>
         {tab === 'home' && <Home go={setTab} checked={checked} />}
-        {tab === 'days' && <Days />}
+        {tab === 'days' && <Days openGuide={openGuide} />}
         {tab === 'pack' && <Packing checked={checked} toggle={toggle} reset={() => setChecked({})} />}
         {tab === 'daiso' && <Daiso checked={checked} toggle={toggle} />}
         {tab === 'meds' && <Meds checked={checked} toggle={toggle} />}
@@ -189,7 +202,7 @@ function Home({ go, checked }: { go: (t: TabId) => void; checked: Record<string,
   )
 }
 
-function Days() {
+function Days({ openGuide }: { openGuide: () => void }) {
   const [open, setOpen] = useState<number | null>(null)
   return (
     <Section title="일자별 일정" lead="일정표 기준 예상 일정 · 호텔/순서는 현지 사정으로 변경될 수 있어요.">
@@ -212,6 +225,9 @@ function Days() {
                         <span>{it.title}</span>
                         {it.detail && (
                           <ul>{it.detail.map((x) => <li key={x}>{x}</li>)}</ul>
+                        )}
+                        {it.guide && (
+                          <div><button className="guide-btn" onClick={openGuide}>📖 관광지 상세 가이드 보기</button></div>
                         )}
                       </li>
                     ))}
