@@ -1,0 +1,364 @@
+{
+ "introHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Aswan_Nile_R05.jpg/1280px-Aswan_Nile_R05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "아스완의 나일강. 하얀 돛을 단 전통 돛단배 '펠루카'들이 화강암 바위섬 사이에 떠 있습니다.",
+  "credit": "Marc Ryckaert (MJJR) · CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aswan_Nile_R05.jpg"
+ },
+ "damHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/By_ovedc_-_Aswan_High_Dam_-_08.jpg/1280px-By_ovedc_-_Aswan_High_Dam_-_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "하이댐 꼭대기에서 내려다본 나일강 하류. 댐이 물길을 붙잡아 아래쪽 강은 잔잔하게 흐릅니다.",
+  "credit": "Ovedc · CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Aswan_High_Dam_-_08.jpg"
+ },
+ "dam": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Aswan_high_dam%2C_looking_South_to_Lake_Nasser%2C_Egypt_-_panoramio.jpg/1280px-Aswan_high_dam%2C_looking_South_to_Lake_Nasser%2C_Egypt_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "댐 위에서 남쪽을 본 파노라마. 끝없이 펼쳐진 물이 댐이 만든 인공호수 '나세르 호수'입니다.",
+   "credit": "David Broad · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Aswan_high_dam,_looking_South_to_Lake_Nasser,_Egypt_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/By_ovedc_-_Aswan_High_Dam_-_20.jpg/1280px-By_ovedc_-_Aswan_High_Dam_-_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "댐의 호수 쪽 사면. 바위와 흙을 산처럼 쌓아 만든 '록필 댐'이라 겉면이 돌무더기입니다.",
+   "credit": "Ovedc · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Aswan_High_Dam_-_20.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/By_ovedc_-_Aswan_High_Dam_-_26.jpg/1280px-By_ovedc_-_Aswan_High_Dam_-_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "돌을 쌓은 댐 사면과 바다처럼 넓은 나세르 호수.",
+   "credit": "Ovedc · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Aswan_High_Dam_-_26.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/By_ovedc_-_Aswan_High_Dam_-_09.jpg/1280px-By_ovedc_-_Aswan_High_Dam_-_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "댐 하류 쪽 아래로 보이는 수력발전소와 송전 설비.",
+   "credit": "Ovedc · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Aswan_High_Dam_-_09.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/The_High_Aswan_Dam_produces_2%2C1_GW_of_electricity_%2814447559186%29.jpg/1280px-The_High_Aswan_Dam_produces_2%2C1_GW_of_electricity_%2814447559186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "하이댐 수력발전소. 발전기 12대가 돌아가며 최대 약 2.1GW의 전기를 만듭니다.",
+   "credit": "Jorge Láscar from Melbourne, Australia · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:The_High_Aswan_Dam_produces_2,1_GW_of_electricity_(14447559186).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Barrage_Haut_Assouan_-_Assouan_%28EG%29_-_2025-12-06_-_2.jpg/1280px-Barrage_Haut_Assouan_-_Assouan_%28EG%29_-_2025-12-06_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "댐 위를 달리는 도로. 멀리 연꽃 모양의 '아랍-소련 우호 기념탑'이 보입니다.",
+   "credit": "Chabe01 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Barrage_Haut_Assouan_-_Assouan_(EG)_-_2025-12-06_-_2.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lotus_Flower_sculpture_full.jpg/1280px-Lotus_Flower_sculpture_full.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "연꽃 모양의 아랍-소련 우호 기념탑. 댐 건설을 도운 소련과의 협력을 기념합니다.",
+   "credit": "Gradiva · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Lotus_Flower_sculpture_full.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/The_monument_of_Arab-Soviet_Friendship_%28Lotus_Flower%29_and_Aswan_High_Dam_%2814284214847%29.jpg/1280px-The_monument_of_Arab-Soviet_Friendship_%28Lotus_Flower%29_and_Aswan_High_Dam_%2814284214847%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "댐 서쪽 끝에 선 우호 기념탑과 댐 위 도로.",
+   "credit": "Jorge Láscar from Melbourne, Australia · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:The_monument_of_Arab-Soviet_Friendship_(Lotus_Flower)_and_Aswan_High_Dam_(14284214847).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Aswan_High_Dam%2C_Construction%2C_1964_%281%29.jpg/1280px-Aswan_High_Dam%2C_Construction%2C_1964_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "1964년 하이댐 공사 현장. 거대한 크레인이 바위 골짜기에서 작업 중입니다(흑백 사진).",
+   "credit": "Manfred Niermann · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Aswan_High_Dam,_Construction,_1964_(1).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Aswan_High_Dam%2C_Construction%2C_1964_%282%29.jpg/1280px-Aswan_High_Dam%2C_Construction%2C_1964_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "1964년 공사 현장을 위에서 본 모습. 수많은 크레인과 콘크리트 구조물이 보입니다.",
+   "credit": "Manfred Niermann · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Aswan_High_Dam,_Construction,_1964_(2).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Iss064e006268_%28Nov_26%2C_2020%29_---_Pictured_from_the_International_Space_Station%2C_the_Aswan_Dam_in_Egypt_separates_Lake_Nasser_from_the_Nile_River.jpg/1280px-Iss064e006268_%28Nov_26%2C_2020%29_---_Pictured_from_the_International_Space_Station%2C_the_Aswan_Dam_in_Egypt_separates_Lake_Nasser_from_the_Nile_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "국제우주정거장에서 찍은 사진(2020). 아스완 댐이 나세르 호수와 나일강을 나누고 있습니다.",
+   "credit": "NASA Johnson Space Center · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Iss064e006268_(Nov_26,_2020)_---_Pictured_from_the_International_Space_Station,_the_Aswan_Dam_in_Egypt_separates_Lake_Nasser_from_the_Nile_River.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Egypt%E2%80%99s_Nile_River_turns_into_Lake_Nasser_at_the_Aswan_High_Dam_%28iss074e0315952%29.jpg/1280px-Egypt%E2%80%99s_Nile_River_turns_into_Lake_Nasser_at_the_Aswan_High_Dam_%28iss074e0315952%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "우주에서 본 하이댐 주변. 가느다란 나일강이 댐 너머에서 거대한 나세르 호수로 바뀝니다.",
+   "credit": "NASA Johnson Space Center · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Egypt%E2%80%99s_Nile_River_turns_into_Lake_Nasser_at_the_Aswan_High_Dam_(iss074e0315952).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/By_ovedc_-_Aswan_High_Dam_-_28.jpg/1280px-By_ovedc_-_Aswan_High_Dam_-_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "댐 휴게 공간에 걸린 안내 지도. 나일강과 댐, 호수의 위치 관계를 보여 줍니다.",
+   "credit": "Ovedc · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Aswan_High_Dam_-_28.jpg"
+  }
+ ],
+ "obHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/The_Unfinished_Obelisk%2C_Aswan%2C_AG%2C_EGY_%2848027110231%29.jpg/1280px-The_Unfinished_Obelisk%2C_Aswan%2C_AG%2C_EGY_%2848027110231%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "채석장 바닥에 누운 채 남은 미완성 오벨리스크. 몸통을 가로지르는 가는 금과 돌공으로 두드린 자국이 보입니다.",
+  "credit": "Warren LeMay from Cullowhee, NC, United States · CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Unfinished_Obelisk,_Aswan,_AG,_EGY_(48027110231).jpg"
+ },
+ "ob": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_166.jpg/1280px-Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "화강암 채석장 전경. 가운데 길쭉하게 다듬어진 바위가 오벨리스크입니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Obelisco_inacabado,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_166.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/The_largest_know_ancient_obelisk_-_Unfinished_Obelisk_would_have_been_32m._high_%2814284036359%29.jpg/1280px-The_largest_know_ancient_obelisk_-_Unfinished_Obelisk_would_have_been_32m._high_%2814284036359%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "비스듬히 본 오벨리스크 몸통. 완성되었다면 고대 이집트 최대의 오벨리스크가 되었을 거예요.",
+   "credit": "Jorge Láscar from Melbourne, Australia · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:The_largest_know_ancient_obelisk_-_Unfinished_Obelisk_would_have_been_32m._high_(14284036359).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/By_ovedc_-_Unfinished_obelisk_in_Aswan_-_08.jpg/1280px-By_ovedc_-_Unfinished_obelisk_in_Aswan_-_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "오벨리스크 옆에 선 관광객과 비교하면 크기가 실감 납니다.",
+   "credit": "Ovedc · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Unfinished_obelisk_in_Aswan_-_08.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_169.jpg/1280px-Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "오벨리스크 옆을 따라 깊게 파낸 좁은 도랑. 일꾼들이 이 안에서 바위를 두드려 깎았습니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Obelisco_inacabado,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_169.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_154.jpg/1280px-Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_154.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "오벨리스크 측면과 작업 도랑을 가까이서 본 모습. 사람 하나가 겨우 들어갈 폭입니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Obelisco_inacabado,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_154.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Ob%C3%A9lisque_Inachev%C3%A9_-_Assouan_%28EG%29_-_2025-12-06_-_11.jpg/1280px-Ob%C3%A9lisque_Inachev%C3%A9_-_Assouan_%28EG%29_-_2025-12-06_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "끝쪽에서 바라본 오벨리스크. 길게 뻗은 몸통의 아랫면은 아직 바위와 붙어 있습니다.",
+   "credit": "Chabe01 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ob%C3%A9lisque_Inachev%C3%A9_-_Assouan_(EG)_-_2025-12-06_-_11.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Assuan_Steinbruch_Felszeichnung_01.jpg/1280px-Assuan_Steinbruch_Felszeichnung_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "오벨리스크 옆 채석장 벽에 남은 고대 그림. 일꾼들이 남긴 표시와 낙서로 여겨집니다.",
+   "credit": "Olaf Tausch · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Assuan_Steinbruch_Felszeichnung_01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/UnfinishedObelisk_ToolBall.JPG/960px-UnfinishedObelisk_ToolBall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "화강암을 깨던 단단한 돌공(돌레라이트). 이것으로 두드려서 화강암을 가루로 만들었습니다.",
+   "credit": "Claude Valette · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:UnfinishedObelisk_ToolBall.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Obelisk-Quarry%2C-diorite-ball.jpg/1280px-Obelisk-Quarry%2C-diorite-ball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "채석장 바닥에 놓인 돌공. 고대 일꾼들의 '망치'였던 것으로 보입니다.",
+   "credit": "Steven C. Price · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Obelisk-Quarry,-diorite-ball.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Unfinished_obelisk_at_Aswan_with_holes_showing_how_the_granite_would_be_split_with_logs.JPG/1280px-Unfinished_obelisk_at_Aswan_with_holes_showing_how_the_granite_would_be_split_with_logs.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "바위를 쪼개기 위해 일렬로 판 쐐기 구멍들. 바위를 떼어 내던 방법을 보여 줍니다.",
+   "credit": "Glenn Ashton · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Unfinished_obelisk_at_Aswan_with_holes_showing_how_the_granite_would_be_split_with_logs.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/UnfinishedObelisk_ToolTraces.JPG/960px-UnfinishedObelisk_ToolTraces.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "돌공으로 두드려 깎은 흔적. 표면이 울퉁불퉁하게 파여 있습니다.",
+   "credit": "Claude Valette · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:UnfinishedObelisk_ToolTraces.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Unfinished_Obelisk_-_Aswan_-_Egypt_%284058823772%29.jpg/1280px-Unfinished_Obelisk_-_Aswan_-_Egypt_%284058823772%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "관람객들은 채석장 위 통로에서 오벨리스크를 내려다봅니다.",
+   "credit": "David Berkowitz from New York, NY, USA · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Unfinished_Obelisk_-_Aswan_-_Egypt_(4058823772).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_172.jpg/1280px-Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_172.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "관람 통로와 계단이 설치된 채석장. 오벨리스크를 한 바퀴 돌며 볼 수 있습니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Obelisco_inacabado,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_172.jpg"
+  }
+ ],
+ "crHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Radamis_II_IMO_9086540_P_Luxor_30-01-2024_%282%29.jpg/1280px-Radamis_II_IMO_9086540_P_Luxor_30-01-2024_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "나일강을 따라 내려가는 크루즈선. 4~5층짜리 '물 위의 호텔'입니다.",
+  "credit": "Wolfgang Fricke · CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Radamis_II_IMO_9086540_P_Luxor_30-01-2024_(2).jpg"
+ },
+ "cr": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Aswan_Sentido_MS_Mahrousa_02.jpg/1280px-Aswan_Sentido_MS_Mahrousa_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아스완 강변 선착장에 정박한 크루즈선. 오늘 여기서 승선합니다.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Aswan_Sentido_MS_Mahrousa_02.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cruise_ships_in_Aswan.JPG/1280px-Cruise_ships_in_Aswan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아스완에서 여러 척이 나란히 붙어 정박한 모습. 안쪽 배까지 가려면 다른 배의 로비를 지나갑니다.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cruise_ships_in_Aswan.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Luxor_Sentido_MS_Mahrousa.jpg/1280px-Luxor_Sentido_MS_Mahrousa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "선착장에 배들이 겹겹이 붙어 있는 모습. 창밖이 옆 배의 벽일 수도 있어요.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor_Sentido_MS_Mahrousa.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Egypt_Nile_River_Cruise_-_Luxor%2C_Edfu%2C_Kom_Ombo%2C_Aswan_%284058774144%29.jpg/1280px-Egypt_Nile_River_Cruise_-_Luxor%2C_Edfu%2C_Kom_Ombo%2C_Aswan_%284058774144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "크루즈 맨 위층 선데크. 수영장과 인조잔디, 선베드가 있습니다.",
+   "credit": "David Berkowitz from New York, NY, USA · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Egypt_Nile_River_Cruise_-_Luxor,_Edfu,_Kom_Ombo,_Aswan_(4058774144).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cabin_View_from_Movenpick_Radamis_%284058803480%29.jpg/1280px-Cabin_View_from_Movenpick_Radamis_%284058803480%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "선실 창으로 보이는 나일강 풍경. 큰 창 덕분에 방 안에서도 강변이 지나가는 것이 보입니다.",
+   "credit": "David Berkowitz from New York, NY, USA · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cabin_View_from_Movenpick_Radamis_(4058803480).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Movenpick_Radamis_II_Cruise_Ship_on_the_Nile_River_%284058006769%29.jpg/1280px-Movenpick_Radamis_II_Cruise_Ship_on_the_Nile_River_%284058006769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "강변 선착장에서 다리를 건너 크루즈에 오르는 승객들.",
+   "credit": "David Berkowitz from New York, NY, USA · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Movenpick_Radamis_II_Cruise_Ship_on_the_Nile_River_(4058006769).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Smoking_cruise_ships_Nile.JPG/1280px-Smoking_cruise_ships_Nile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "콤옴보 앞 크루즈선들이 검은 연기를 내뿜는 모습. 정박 중 발전기 매연이 선실로 들어올 수 있어요.",
+   "credit": "Rémih · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Smoking_cruise_ships_Nile.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Kom_Ombo_Temple_from_Cruise_Ships%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005078626%29.jpg/1280px-Kom_Ombo_Temple_from_Cruise_Ships%2C_Kom_Ombo%2C_AG%2C_EGY_%2848005078626%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "크루즈 선데크에서 바라본 콤옴보 신전. 배에서 내리면 바로 신전입니다.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kom_Ombo_Temple_from_Cruise_Ships,_Kom_Ombo,_AG,_EGY_(48005078626).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Nile_cruise_ship.JPG/1280px-Nile_cruise_ship.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "해질녘 콤옴보 신전에 도착하는 크루즈선(카림 팰리스호, 길이 약 72m).",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nile_cruise_ship.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Esna_locks_02.jpg/1280px-Esna_locks_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "에스나 수문(갑문). 강의 높낮이 차이를 맞추기 위해 배가 차례로 통과합니다.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Esna_locks_02.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Flickr_-_archer10_%28Dennis%29_-_Egypt-4C-041_-_Salesmen_go_anywhere_and_have_strong_throwing_arms_in_Egypt.....jpg/1280px-Flickr_-_archer10_%28Dennis%29_-_Egypt-4C-041_-_Salesmen_go_anywhere_and_have_strong_throwing_arms_in_Egypt.....jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "수문 앞에서 기다리는 크루즈 옆으로 다가온 상인 보트. 물건을 갑판 위로 던져 올려 흥정합니다.",
+   "credit": "Dennis G. Jarvis · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_Egypt-4C-041_-_Salesmen_go_anywhere_and_have_strong_throwing_arms_in_Egypt.....jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Nile_River%2C_Boats_and_feluccas%2C_Aswan%2C_Egypt.jpg/1280px-Nile_River%2C_Boats_and_feluccas%2C_Aswan%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아스완 나일강의 크루즈선과 펠루카. 강폭이 넓고 물살이 잔잔합니다.",
+   "credit": "Vyacheslav Argenberg · CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nile_River,_Boats_and_feluccas,_Aswan,_Egypt.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Aswan%2C_Elephantine%2C_felucca%2C_Egypt%2C_Oct_2004.jpg/960px-Aswan%2C_Elephantine%2C_felucca%2C_Egypt%2C_Oct_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "엘레판티네 섬 앞을 지나는 펠루카. 아스완 선상에서 흔히 보는 풍경입니다.",
+   "credit": "Przemyslaw \"Blueshade\" Idzkiewicz. · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Aswan,_Elephantine,_felucca,_Egypt,_Oct_2004.jpg"
+  }
+ ],
+ "opt": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Philae_Island%2C_Aswan.jpg/1280px-Philae_Island%2C_Aswan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "하늘에서 본 아길키아 섬의 필레 신전. 원래 섬이 물에 잠기자 신전 전체를 이 섬으로 옮겼습니다.",
+   "credit": "Zakaria Rabea · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Philae_Island,_Aswan.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Bote_de_vuelta_de_File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_90.jpg/1280px-Bote_de_vuelta_de_File%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "필레 신전을 오가는 모터보트. 신전은 섬에 있어 보트로만 갈 수 있어요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bote_de_vuelta_de_File,_Asu%C3%A1n,_Egipto,_2022-04-01,_DD_90.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Philae%2C_Egypt_%2849816168433%29.jpg/1280px-Philae%2C_Egypt_%2849816168433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "물 위에서 바라본 필레 신전과 '트라야누스 키오스크'.",
+   "credit": "Carole Raddato from FRANKFURT, Germany · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Philae,_Egypt_(49816168433).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Philae_Temple_2022-01.jpg/1280px-Philae_Temple_2022-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "이시스 신전 앞 광장과 거대한 탑문, 길게 늘어선 열주.",
+   "credit": "Yasser.mahmoud · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Philae_Temple_2022-01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Philla_HHA1658-Pano.jpg/1280px-Philla_HHA1658-Pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "로마 황제 트라야누스 시대의 정자 '트라야누스 키오스크'. 필레의 대표 사진 포인트입니다.",
+   "credit": "Hossam.amer.eg · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Philla_HHA1658-Pano.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/1977_bis_1980_wurde_der_Tempelkomplex_abgetragen_und_auf_einer_h%C3%B6her_gelegenen_Insel_wieder_aufgebaut._13.jpg/1280px-1977_bis_1980_wurde_der_Tempelkomplex_abgetragen_und_auf_einer_h%C3%B6her_gelegenen_Insel_wieder_aufgebaut._13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "하토르 여신의 얼굴이 조각된 기둥머리. 소 귀를 가진 얼굴이 특징입니다.",
+   "credit": "Holger Uwe Schmitt · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:1977_bis_1980_wurde_der_Tempelkomplex_abgetragen_und_auf_einer_h%C3%B6her_gelegenen_Insel_wieder_aufgebaut._13.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/1977_bis_1980_wurde_der_Tempelkomplex_abgetragen_und_auf_einer_h%C3%B6her_gelegenen_Insel_wieder_aufgebaut._17.jpg/1280px-1977_bis_1980_wurde_der_Tempelkomplex_abgetragen_und_auf_einer_h%C3%B6her_gelegenen_Insel_wieder_aufgebaut._17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "신전 벽에 새겨진 십자가. 훗날 신전이 교회로 쓰이던 시절의 흔적으로 여겨집니다.",
+   "credit": "Holger Uwe Schmitt · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:1977_bis_1980_wurde_der_Tempelkomplex_abgetragen_und_auf_einer_h%C3%B6her_gelegenen_Insel_wieder_aufgebaut._17.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/The_hypostyle_hall_of_the_Temple_of_Isis%2C_Philae%2C_Egypt_%2849832615611%29.jpg/1280px-The_hypostyle_hall_of_the_Temple_of_Isis%2C_Philae%2C_Egypt_%2849832615611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "이시스 신전의 다주실. 기둥머리에 색이 아직 남아 있어요.",
+   "credit": "Carole Raddato from FRANKFURT, Germany · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:The_hypostyle_hall_of_the_Temple_of_Isis,_Philae,_Egypt_(49832615611).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Aswan_Naj_Suhayl_Gharb_R01.jpg/1280px-Aswan_Naj_Suhayl_Gharb_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "나일강 서안의 누비아 마을 '가르브 소헤일'. 알록달록한 집들이 사막 언덕 아래 모여 있습니다.",
+   "credit": "Marc Ryckaert (MJJR) · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Aswan_Naj_Suhayl_Gharb_R01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Camel_ride_in_Nubia.jpg/1280px-Camel_ride_in_Nubia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "벽화로 꾸민 누비아 마을 골목과 낙타. 마을 안에서 낙타를 타 볼 수 있어요.",
+   "credit": "Basssant Meligy · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Camel_ride_in_Nubia.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Nubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026554778%29.jpg/1280px-Nubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026554778%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "하늘색과 흰색으로 칠한 누비아 전통 가옥. 둥근 장식 지붕선이 특징입니다.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nubian_House,_Nagaa_Suhayl_Gharb,_AG,_EGY_(48026554778).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nubian_House_in_Aswan.jpg/1280px-Nubian_House_in_Aswan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "파란 대문과 장식. 누비아 사람들은 문과 벽을 화려하게 꾸밉니다.",
+   "credit": "Yasseralaamobarak · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nubian_House_in_Aswan.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Nubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026613778%29.jpg/1280px-Nubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026613778%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "누비아 가옥의 둥근 천장 장식. 벽돌을 무늬처럼 쌓아 색칠했습니다.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nubian_House,_Nagaa_Suhayl_Gharb,_AG,_EGY_(48026613778).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Osteolaemus_tetraspis%2C_Aswan%2C_Egypt_-_20080115.jpg/1280px-Osteolaemus_tetraspis%2C_Aswan%2C_Egypt_-_20080115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아스완 누비아 마을 집에서 기르는 작은 악어들(아프리카 난쟁이악어).",
+   "credit": "Hedwig Storch. · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Osteolaemus_tetraspis,_Aswan,_Egypt_-_20080115.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/%D8%B3%D9%88%D9%82_%D8%A7%D9%84%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D9%86%D9%88%D8%A8%D8%A9.jpg/1280px-%D8%B3%D9%88%D9%82_%D8%A7%D9%84%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D9%86%D9%88%D8%A8%D8%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "누비아 마을 가게의 향신료와 염료. 색색의 가루가 산처럼 쌓여 있어요.",
+   "credit": "Hananelmahmoudy123 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%B3%D9%88%D9%82_%D8%A7%D9%84%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D9%86%D9%88%D8%A8%D8%A9.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Nubian_houses_in_the_bank_of_River_Nile_Aswan_%2C_Egypt.JPG/1280px-Nubian_houses_in_the_bank_of_River_Nile_Aswan_%2C_Egypt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "나일강 강변 바위 언덕에 자리한 누비아 마을 집들.",
+   "credit": "Belmahdy · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nubian_houses_in_the_bank_of_River_Nile_Aswan_,_Egypt.JPG"
+  }
+ ]
+}

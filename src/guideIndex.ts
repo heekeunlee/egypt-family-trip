@@ -2,6 +2,7 @@ import { ALEX_DAY_TIPS, ALEX_INTRO, SPOTS, type Photo, type Spot } from './guide
 import { GIZA_DAY_TIPS, GIZA_EXTRA, GIZA_INTRO, GIZA_SPOTS } from './guidesGiza'
 import { HRG_DAY_TIPS, HRG_EXTRA, HRG_INTRO, HRG_SPOTS } from './guidesHurghada'
 import { ABU_DAY_TIPS, ABU_INTRO, ABU_SPOTS } from './guidesAbuSimbel'
+import { ASWAN_DAY_TIPS, ASWAN_EXTRA, ASWAN_INTRO, ASWAN_SPOTS } from './guidesAswan'
 
 export type DayGuide = {
   label: string
@@ -53,6 +54,15 @@ export const GUIDES: Record<string, DayGuide> = {
     intro: ABU_INTRO,
     spots: ABU_SPOTS,
     dayTips: ABU_DAY_TIPS,
+  },
+  aswan: {
+    label: '아스완',
+    step: 'DAY 3 · 11/23(월)',
+    timelineTitle: '아스완과 나일강 연표',
+    intro: ASWAN_INTRO,
+    spots: ASWAN_SPOTS,
+    dayTips: ASWAN_DAY_TIPS,
+    extra: ASWAN_EXTRA,
   },
 }
 
