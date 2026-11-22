@@ -1,5 +1,6 @@
 import { ALEX_DAY_TIPS, ALEX_INTRO, SPOTS, type Photo, type Spot } from './guides'
 import { GIZA_DAY_TIPS, GIZA_EXTRA, GIZA_INTRO, GIZA_SPOTS } from './guidesGiza'
+import { HRG_DAY_TIPS, HRG_EXTRA, HRG_INTRO, HRG_SPOTS } from './guidesHurghada'
 
 export type DayGuide = {
   label: string
@@ -34,6 +35,15 @@ export const GUIDES: Record<string, DayGuide> = {
     spots: GIZA_SPOTS,
     dayTips: GIZA_DAY_TIPS,
     extra: GIZA_EXTRA,
+  },
+  hurghada: {
+    label: '후르가다',
+    step: 'DAY 6–7 · 11/26(목)–27(금)',
+    timelineTitle: '후르가다와 홍해 연표',
+    intro: HRG_INTRO,
+    spots: HRG_SPOTS,
+    dayTips: HRG_DAY_TIPS,
+    extra: HRG_EXTRA,
   },
 }
 

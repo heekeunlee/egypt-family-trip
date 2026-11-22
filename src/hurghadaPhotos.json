@@ -1,0 +1,378 @@
+{
+ "introHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Egypt-Hurghada-from-plane01.jpg/1280px-Egypt-Hurghada-from-plane01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "비행기에서 내려다본 후르가다 앞바다. 얕은 산호초가 만든 에메랄드빛 바다와 섬들이 펼쳐집니다.",
+  "credit": "Ebief · CC BY-SA 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Egypt-Hurghada-from-plane01.jpg"
+ },
+ "hrgHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hurghada_Coast_by_Hatem_Moushir_12.JPG/1280px-Hurghada_Coast_by_Hatem_Moushir_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "바다에서 본 후르가다. 가운데 두 개의 첨탑이 솟은 건물이 엘 미나 모스크입니다.",
+  "credit": "Hatem Moushir · CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hurghada_Coast_by_Hatem_Moushir_12.JPG"
+ },
+ "hrg": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Hurghada_corniche.jpg/1280px-Hurghada_corniche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "하늘에서 본 후르가다 해안. 도시가 바다를 따라 길쭉하게 약 36km 이어집니다.",
+   "credit": "Michael Botros · CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_corniche.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Hurghada_Yacht_Marina.jpg/1280px-Hurghada_Yacht_Marina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "위에서 내려다본 후르가다 마리나. 요트와 투어 보트가 빼곡히 정박해 있어요.",
+   "credit": "Michael Botros · CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_Yacht_Marina.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Morning_at_Hurghada_Marina.JPG/1280px-Morning_at_Hurghada_Marina.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아침의 후르가다 마리나. 잔잔한 물 위에 요트와 건물이 비칩니다.",
+   "credit": "Alexander Vasenin · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Morning_at_Hurghada_Marina.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Hurghada_port_mosque.jpg/1280px-Hurghada_port_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "엘 미나 모스크와 항구의 어선들. 약 40m 높이의 두 첨탑이 도시의 랜드마크입니다.",
+   "credit": "reesorts.com · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_port_mosque.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/ISS074-E-834658_-_View_of_Egypt_-_Hurghada_-_Red_Sea_-_Giftun_Island_-_Giftun_al_Sakhir_-_El_Gouma_%28cropped%29.jpg/1280px-ISS074-E-834658_-_View_of_Egypt_-_Hurghada_-_Red_Sea_-_Giftun_Island_-_Giftun_al_Sakhir_-_El_Gouma_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "국제우주정거장(ISS)에서 찍은 후르가다 일대. 바다 위 하늘색 무늬가 산호초와 기프툰 섬 주변의 얕은 바다입니다.",
+   "credit": "Earth Science and Remote Sensing Unit, NASA Johnson Space Center · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:ISS074-E-834658_-_View_of_Egypt_-_Hurghada_-_Red_Sea_-_Giftun_Island_-_Giftun_al_Sakhir_-_El_Gouma_(cropped).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Giftun_Island_Egypte_-_panoramio.jpg/1280px-Giftun_Island_Egypte_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "기프툰 섬의 해변. 하얀 모래와 투명한 바다로 유명한 보트 투어 목적지입니다.",
+   "credit": "E v Schoonhoven · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Giftun_Island_Egypte_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Red_Sea_-_Giftun_Island_trip_%282743504705%29.jpg/1280px-Red_Sea_-_Giftun_Island_trip_%282743504705%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "기프툰 섬으로 가는 보트 투어. 배 위에서 보는 바다색이 정말 다채로워요.",
+   "credit": "V Manninen from Funland · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Sea_-_Giftun_Island_trip_(2743504705).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Hurghada_rafa_koralowa.JPG/1280px-Hurghada_rafa_koralowa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 해변 앞 얕은 바다. 물이 맑아 바닥의 산호가 그대로 비칩니다.",
+   "credit": "Inetta · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_rafa_koralowa.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Fresh_fish_in_the_port_-_panoramio.jpg/1280px-Fresh_fish_in_the_port_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "항구의 생선 노점. 후르가다는 원래 작은 어촌이었습니다.",
+   "credit": "Menshov Vladimir · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Fresh_fish_in_the_port_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Hurghada_bazaar_2011.jpeg/1280px-Hurghada_bazaar_2011.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "다하르 지역 바자르(전통 시장)의 기념품 가게.",
+   "credit": "Emara · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_bazaar_2011.jpeg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Hurghada%27s_sunset.jpg/1280px-Hurghada%27s_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "호텔 정원 너머로 저물어 가는 홍해의 저녁.",
+   "credit": "Abd El Rahman Ehab Mohamed · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada%27s_sunset.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Zone_prot%C3%A8g%C3%A9e_de_Mangrouve_-_panoramio.jpg/1280px-Zone_prot%C3%A8g%C3%A9e_de_Mangrouve_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 해안의 맹그로브 보호구역. 바닷물 속에서 자라는 특별한 나무입니다.",
+   "credit": "youssef_alam · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Zone_prot%C3%A8g%C3%A9e_de_Mangrouve_-_panoramio.jpg"
+  }
+ ],
+ "resHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hurghada%2C_Egypt.jpg/1280px-Hurghada%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "짚 파라솔과 선베드가 늘어선 후르가다의 리조트 해변.",
+  "credit": "cattan2011 · CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hurghada,_Egypt.jpg"
+ },
+ "res": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/All-inclusive-B%C3%A4ndchen_Iberostar_2015_%E2%80%94_Aussenseite.jpg/1280px-All-inclusive-B%C3%A4ndchen_Iberostar_2015_%E2%80%94_Aussenseite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "올인클루시브 손목밴드 예시. 체크인 때 채워 주며, 이것이 곧 \"무제한 이용권\"입니다.",
+   "credit": "Mateus2019 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:All-inclusive-B%C3%A4ndchen_Iberostar_2015_%E2%80%94_Aussenseite.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Hurghada_Hotels_Three_Corners_6.jpg/1280px-Hurghada_Hotels_Three_Corners_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 호텔의 뷔페 식당. 샐러드·과일·빵·따뜻한 요리가 끼니마다 차려집니다.",
+   "credit": "Karelj · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_Hotels_Three_Corners_6.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Buffet_brekafast_%285078306699%29.jpg/1280px-Buffet_brekafast_%285078306699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "호텔 조식 뷔페의 과일과 반찬 코너 (예시 사진).",
+   "credit": "Matt @ PEK from Taipei, Taiwan · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Buffet_brekafast_(5078306699).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Makadi_Palce%2C_swimmingpool.JPG/1280px-Makadi_Palce%2C_swimmingpool.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "수영장 선베드 위의 비치 타월. 타월은 보통 타월 카드와 바꿔서 빌려요.",
+   "credit": "Magellan · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Makadi_Palce,_swimmingpool.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kids_pool_Hotel_Alf_Leila_Wa_Leila_-_panoramio.jpg/1280px-Kids_pool_Hotel_Alf_Leila_Wa_Leila_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "미끄럼틀이 있는 리조트의 어린이 수영장. 물이 얕아 아이들이 놀기 좋습니다.",
+   "credit": "E v Schoonhoven · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kids_pool_Hotel_Alf_Leila_Wa_Leila_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kids_pool_Hotel_Alf_Leila_Wa_Leila_-_panoramio_%281%29.jpg/1280px-Kids_pool_Hotel_Alf_Leila_Wa_Leila_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "파빌리온 그늘에서 바라본 어린이 수영장.",
+   "credit": "E v Schoonhoven · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kids_pool_Hotel_Alf_Leila_Wa_Leila_-_panoramio_(1).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Pool_Makadi_Palace_-_panoramio.jpg/1280px-Pool_Makadi_Palace_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "야자수에 둘러싸인 리조트 수영장.",
+   "credit": "superdragon67 · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pool_Makadi_Palace_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Shedwan_pool_at_night_-_panoramio.jpg/1280px-Shedwan_pool_at_night_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "밤 조명이 켜진 수영장. 밤에는 수영 금지인 곳이 대부분이에요.",
+   "credit": "Андрей Куполов · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Shedwan_pool_at_night_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Tourists_at_beach_of_Makadi_Bay%2C_Egypt.jpg/1280px-Tourists_at_beach_of_Makadi_Bay%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "마카디 베이 리조트 해변의 파라솔과 선베드.",
+   "credit": "Figure · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tourists_at_beach_of_Makadi_Bay,_Egypt.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Lifeguard%27s_red_flag.jpg/1280px-Lifeguard%27s_red_flag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "해변의 안전요원 감시탑과 붉은 깃발. 붉은 깃발은 \"수영 위험\"이라는 뜻입니다.",
+   "credit": "דוד שי · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Lifeguard%27s_red_flag.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Red_flag_at_beach.jpg/1280px-Red_flag_at_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "바람에 날리는 붉은 깃발. 깃발 색을 꼭 확인하고 들어가세요.",
+   "credit": "Sheila1988 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_flag_at_beach.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/%D0%9D%D0%B0%D0%B4%D0%B2%D0%B5%D1%87%D1%96%D1%80%D1%8F_%D0%B2_%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D1%83_%D0%B7_%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96%D0%B2_%D0%A5%D1%83%D1%80%D0%B3%D0%B0%D0%B4%D0%B8.JPG/1280px-%D0%9D%D0%B0%D0%B4%D0%B2%D0%B5%D1%87%D1%96%D1%80%D1%8F_%D0%B2_%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D1%83_%D0%B7_%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96%D0%B2_%D0%A5%D1%83%D1%80%D0%B3%D0%B0%D0%B4%D0%B8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 리조트 수영장에서 맞는 저녁노을.",
+   "credit": "Turzh · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B0%D0%B4%D0%B2%D0%B5%D1%87%D1%96%D1%80%D1%8F_%D0%B2_%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D1%83_%D0%B7_%D0%B3%D0%BE%D1%82%D0%B5%D0%BB%D1%96%D0%B2_%D0%A5%D1%83%D1%80%D0%B3%D0%B0%D0%B4%D0%B8.JPG"
+  }
+ ],
+ "seaHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pez_payaso_%28Amphiprion_bicinctus%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_93.jpg/1280px-Pez_payaso_%28Amphiprion_bicinctus%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "말미잘 속에 숨은 홍해 흰동가리(Amphiprion bicinctus). \"니모\"의 사촌이에요.",
+  "credit": "Diego Delso · CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pez_payaso_(Amphiprion_bicinctus)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica),_mar_Rojo,_Egipto,_2023-04-18,_DD_93.jpg"
+ },
+ "sea": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Hurghada_snorkelling_-_Egypt_-_panoramio.jpg/1280px-Hurghada_snorkelling_-_Egypt_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 앞바다에서 스노클링하는 사람들. 구명조끼를 입고 수면에 떠서 바닷속을 내려다봅니다.",
+   "credit": "Fanny S Forsdik · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_snorkelling_-_Egypt_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Snorkeling_and_diving_in_the_Red_Sea_Middle_Reef_near_Safaga%2C_Egypt_%2851223822519%29.jpg/1280px-Snorkeling_and_diving_in_the_Red_Sea_Middle_Reef_near_Safaga%2C_Egypt_%2851223822519%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "하늘에서 본 사파가 근처 미들 리프. 짙은 파랑 속 밝은 부분이 산호초입니다.",
+   "credit": "dronepicr · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Snorkeling_and_diving_in_the_Red_Sea_Middle_Reef_near_Safaga,_Egypt_(51223822519).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Coral_reefs_in_Hurghada.JPG/1280px-Coral_reefs_in_Hurghada.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다의 산호초. 보라·분홍빛 산호와 성게가 보입니다.",
+   "credit": "Aymangabalawy · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Coral_reefs_in_Hurghada.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%C5%81awica_ryb_Hurgada_1.JPG/1280px-%C5%81awica_ryb_Hurgada_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 근처 산호초의 물고기 떼.",
+   "credit": "Inetta · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%C5%81awica_ryb_Hurgada_1.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Peces_payaso_%28Amphiprion_bicinctus%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_35.jpg/1280px-Peces_payaso_%28Amphiprion_bicinctus%29_en_una_an%C3%A9mona_magn%C3%ADfica_%28Heteractis_magnifica%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "말미잘 속 홍해 흰동가리 한 쌍 (라스 무함마드 국립공원). 말미잘 독침에 쏘이지 않는 특별한 물고기예요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Peces_payaso_(Amphiprion_bicinctus)_en_una_an%C3%A9mona_magn%C3%ADfica_(Heteractis_magnifica),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-27,_DD_35.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Peces_mariposa_del_mar_Rojo_%28Chaetodon_semilarvatus%29%2C_Temple%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_16.jpg/1280px-Peces_mariposa_del_mar_Rojo_%28Chaetodon_semilarvatus%29%2C_Temple%2C_Sharm_el-Sheij%2C_Egipto%2C_2022-03-26%2C_DD_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "노란 몸에 파란 눈 무늬를 가진 홍해 나비고기(Chaetodon semilarvatus).",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Peces_mariposa_del_mar_Rojo_(Chaetodon_semilarvatus),_Temple,_Sharm_el-Sheij,_Egipto,_2022-03-26,_DD_16.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Crown_Butterflyfish%2C_Chaetodon_paucifasciatus%2C_Red_Sea_%2836204827650%29.jpg/1280px-Crown_Butterflyfish%2C_Chaetodon_paucifasciatus%2C_Red_Sea_%2836204827650%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "크라운 나비고기(Chaetodon paucifasciatus). 홍해에서 흔히 보는 나비고기입니다.",
+   "credit": "Derek Keats from Johannesburg, South Africa · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Crown_Butterflyfish,_Chaetodon_paucifasciatus,_Red_Sea_(36204827650).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Meeresschildkr%C3%B6te_Bissa._%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D1%85%D0%B0_%D0%91%D0%B8%D1%81%D1%81%D0%B0_%28Eretmochelys_imbricata%29._DSCF9906WI.jpg/1280px-Meeresschildkr%C3%B6te_Bissa._%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D1%85%D0%B0_%D0%91%D0%B8%D1%81%D1%81%D0%B0_%28Eretmochelys_imbricata%29._DSCF9906WI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "산호초 위를 헤엄치는 매부리바다거북.",
+   "credit": "Kora27 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Meeresschildkr%C3%B6te_Bissa._%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D1%85%D0%B0_%D0%91%D0%B8%D1%81%D1%81%D0%B0_(Eretmochelys_imbricata)._DSCF9906WI.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Almeja_gigante_%28Tridacna_maxima%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_169.jpg/1280px-Almeja_gigante_%28Tridacna_maxima%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-18%2C_DD_169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "산호 속에 박혀 사는 대왕조개(Tridacna maxima). 입술 무늬가 사람마다 다른 지문처럼 제각각이에요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Almeja_gigante_(Tridacna_maxima),_mar_Rojo,_Egipto,_2023-04-18,_DD_169.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Pez_le%C3%B3n_de_aleta_clara_%28Pterois_radiata%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_176.jpg/1280px-Pez_le%C3%B3n_de_aleta_clara_%28Pterois_radiata%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_176.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "라이언피시(Pterois radiata). 화려하지만 가시에 독이 있으니 절대 만지지 마세요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pez_le%C3%B3n_de_aleta_clara_(Pterois_radiata),_mar_Rojo,_Egipto,_2023-04-17,_DD_176.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Synanceiidae_Synanceia_verrucosa_1.jpg/1280px-Synanceiidae_Synanceia_verrucosa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "스톤피시(퉁쏠치, Synanceia verrucosa). 돌처럼 보여 밟기 쉬운데, 등가시의 독이 매우 강합니다.",
+   "credit": "NasserHalaweh · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Synanceiidae_Synanceia_verrucosa_1.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/See_urchins_in_red_sea_near_Dahab.JPG/1280px-See_urchins_in_red_sea_near_Dahab.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "다합 근처 홍해 바닥의 성게. 긴 가시에 찔리면 아파요. 아쿠아슈즈가 필요한 이유입니다.",
+   "credit": "Stefan4242 · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:See_urchins_in_red_sea_near_Dahab.JPG"
+  }
+ ],
+ "desHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_bedouin_by_memoangel33-d6579w1.jpg/1280px-The_bedouin_by_memoangel33-d6579w1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "후르가다 사막에서 낙타와 함께 쉬고 있는 베두인 남성.",
+  "credit": "Memoangel33 · CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_bedouin_by_memoangel33-d6579w1.jpg"
+ },
+ "des": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Desert_safari_in_Hurghada_-_panoramio.jpg/1280px-Desert_safari_in_Hurghada_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 사막 사파리의 지프(사륜구동차) 행렬.",
+   "credit": "E v Schoonhoven · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Desert_safari_in_Hurghada_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Desert_Safari_in_hurghada.jpg/1280px-Desert_Safari_in_hurghada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "산을 배경으로 사막을 달리는 쿼드 바이크(ATV).",
+   "credit": "Mostafa Abdel Samie from Cairo, Egypt · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Desert_Safari_in_hurghada.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Hurghada_desert_by_Hatem_Moushir_1.JPG/1280px-Hurghada_desert_by_Hatem_Moushir_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "출발을 기다리는 쿼드 바이크 행렬. 앞사람과 간격을 지키며 줄지어 달립니다.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_by_Hatem_Moushir_1.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Hurghada_desert_by_Hatem_Moushir_16.JPG/1280px-Hurghada_desert_by_Hatem_Moushir_16.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "바위산 아래 자리한 사파리 캠프.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_by_Hatem_Moushir_16.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E8%B2%9D%E7%9D%A3%E5%9B%A0%E6%9D%91%E8%90%BD_Bedouin_Village_-_panoramio.jpg/1280px-%E8%B2%9D%E7%9D%A3%E5%9B%A0%E6%9D%91%E8%90%BD_Bedouin_Village_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "베두인 마을에서 화덕에 얇은 빵을 굽는 여성들.",
+   "credit": "lienyuan lee · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%E8%B2%9D%E7%9D%A3%E5%9B%A0%E6%9D%91%E8%90%BD_Bedouin_Village_-_panoramio.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Hurghada_desert_by_Hatem_Moushir_55.JPG/1280px-Hurghada_desert_by_Hatem_Moushir_55.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "사파리 캠프에서 빵 반죽을 미는 베두인 여성과 이를 지켜보는 아이.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_by_Hatem_Moushir_55.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%D8%B4%D8%A7%D9%8A_%D8%A8%D8%AF%D9%88%D9%8A.jpg/1280px-%D8%B4%D8%A7%D9%8A_%D8%A8%D8%AF%D9%88%D9%8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "장작불에 베두인 차를 끓이는 젊은이 (시나이반도 세인트 캐서린).",
+   "credit": "Hesham Farouk Ragab · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%B4%D8%A7%D9%8A_%D8%A8%D8%AF%D9%88%D9%8A.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Camels_Owner.jpg/1280px-Camels_Owner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "안장을 얹은 낙타와 낙타 주인.",
+   "credit": "Abdelrahman Abdelazeem · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Camels_Owner.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hurghada_desert_by_Hatem_Moushir_35.JPG/1280px-Hurghada_desert_by_Hatem_Moushir_35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "사막 캠프에서의 낙타 타기 체험.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_by_Hatem_Moushir_35.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Hurghada_desert_by_Hatem_Moushir_40.JPG/1280px-Hurghada_desert_by_Hatem_Moushir_40.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "화려한 안장 장식을 단 낙타.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_by_Hatem_Moushir_40.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hurghada_desert_sunset.JPG/1280px-Hurghada_desert_sunset.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "해 질 녘 후르가다 사막. 바위산 그림자가 길게 늘어집니다.",
+   "credit": "Krückstock · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_sunset.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%D8%B0%D8%B1%D8%A7%D8%B9_%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%A9_2.jpg/1280px-%D8%B0%D8%B1%D8%A7%D8%B9_%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%A9_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "도시 불빛에서 멀리 떨어진 이집트 사막의 밤하늘과 은하수.",
+   "credit": "Ahmed abd elkader mohamed · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%B0%D8%B1%D8%A7%D8%B9_%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%A9_2.jpg"
+  }
+ ],
+ "opt": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Gelbes_Schiff_mit_Glasboden_im_Roten_Meer_in_%C3%84gypten_2H1A7836WI.jpg/1280px-Gelbes_Schiff_mit_Glasboden_im_Roten_Meer_in_%C3%84gypten_2H1A7836WI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "마카디 베이 앞바다를 지나는 노란 유리바닥 관광선. 후르가다 반잠수함도 비슷한 모양입니다.",
+   "credit": "Kora27 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gelbes_Schiff_mit_Glasboden_im_Roten_Meer_in_%C3%84gypten_2H1A7836WI.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/SemiSUBMARINE_tourist_tour_boat.jpg/1280px-SemiSUBMARINE_tourist_tour_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "반잠수함의 모습. 윗부분은 물 위에 떠 있고, 창이 달린 아랫부분(관람실)만 물속에 잠깁니다.",
+   "credit": "Mst78 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:SemiSUBMARINE_tourist_tour_boat.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/SemiSUBMARINE_55_PAX_-_underwater_observatory.jpg/1280px-SemiSUBMARINE_55_PAX_-_underwater_observatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "반잠수함의 갑판. 갑판에서 바다를 보다가 계단으로 아래 관람실에 내려갑니다.",
+   "credit": "Mst78 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:SemiSUBMARINE_55_PAX_-_underwater_observatory.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Sindbad_submarines_at_Hurghada_by_Hatem_Moushir_38.JPG/1280px-Sindbad_submarines_at_Hurghada_by_Hatem_Moushir_38.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 관광 잠수함 창밖의 물고기 떼. 반잠수함에서도 이렇게 창문으로 바닷속을 봅니다.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Sindbad_submarines_at_Hurghada_by_Hatem_Moushir_38.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sindbad_submarines_at_Hurghada_by_Hatem_Moushir_32.JPG/1280px-Sindbad_submarines_at_Hurghada_by_Hatem_Moushir_32.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "잠수함 창문으로 본 바닷속 난파선.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Sindbad_submarines_at_Hurghada_by_Hatem_Moushir_32.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dessert_Safari.jpg/1280px-Dessert_Safari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "저녁, 출발 준비를 마친 쿼드 바이크들과 참가자들.",
+   "credit": "Norhan Elmaghrabi · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Dessert_Safari.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hurghada_desert_by_Hatem_Moushir_95.JPG/1280px-Hurghada_desert_by_Hatem_Moushir_95.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "사막 캠프 저녁 공연의 탄누라 춤. 치마를 돌리며 쉬지 않고 빙글빙글 돕니다.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_by_Hatem_Moushir_95.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Hurghada_desert_by_Hatem_Moushir_13.JPG/1280px-Hurghada_desert_by_Hatem_Moushir_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "후르가다 뒤편 홍해 산맥의 사막 풍경.",
+   "credit": "Hatem Moushir · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hurghada_desert_by_Hatem_Moushir_13.JPG"
+  }
+ ]
+}
