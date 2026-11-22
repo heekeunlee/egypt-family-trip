@@ -4,6 +4,7 @@ import { HRG_DAY_TIPS, HRG_EXTRA, HRG_INTRO, HRG_SPOTS } from './guidesHurghada'
 import { ABU_DAY_TIPS, ABU_INTRO, ABU_SPOTS } from './guidesAbuSimbel'
 import { ASWAN_DAY_TIPS, ASWAN_EXTRA, ASWAN_INTRO, ASWAN_SPOTS } from './guidesAswan'
 import { OC_DAY_TIPS, OC_EXTRA, OC_INTRO, OC_SPOTS } from './guidesOldCairo'
+import { LUXOR_DAY_TIPS, LUXOR_EXTRA, LUXOR_INTRO, LUXOR_SPOTS } from './guidesLuxor'
 
 export type DayGuide = {
   label: string
@@ -73,6 +74,15 @@ export const GUIDES: Record<string, DayGuide> = {
     spots: OC_SPOTS,
     dayTips: OC_DAY_TIPS,
     extra: OC_EXTRA,
+  },
+  luxor: {
+    label: '에드푸·룩소르',
+    step: 'DAY 5 · 11/25(수)',
+    timelineTitle: '테베(룩소르) 연표',
+    intro: LUXOR_INTRO,
+    spots: LUXOR_SPOTS,
+    dayTips: LUXOR_DAY_TIPS,
+    extra: LUXOR_EXTRA,
   },
 }
 

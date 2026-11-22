@@ -1,0 +1,526 @@
+{
+ "introHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Cruising_the_Nile_at_Luxor.jpg/1280px-Cruising_the_Nile_at_Luxor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "룩소르의 나일강. 강변에 크루즈선이 줄지어 정박해 있고 펠루카(전통 돛단배)가 오갑니다.",
+  "credit": "Wex Major 98 · CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cruising_the_Nile_at_Luxor.jpg"
+ },
+ "edfuHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Edfu_Temple_pylon_from_outside.jpg/1280px-Edfu_Temple_pylon_from_outside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "에드푸 호루스 신전의 거대한 탑문(파일론). 높이 30m가 넘는 벽에 신과 왕의 모습이 새겨져 있습니다.",
+  "credit": "User:MatthiasKabel · CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Edfu_Temple_pylon_from_outside.jpg"
+ },
+ "edfu": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Pylon%2C_Temple_of_Horus_at_Edfu%2C_Edfu%2C_AG%2C_EGY_%2848022521191%29.jpg/1280px-Pylon%2C_Temple_of_Horus_at_Edfu%2C_Edfu%2C_AG%2C_EGY_%2848022521191%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "탑문을 가까이에서. 왕이 적들을 내리치는 거대한 부조가 양쪽 벽을 가득 채웁니다.",
+   "credit": "Warren LeMay from Cullowhee, NC, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pylon,_Temple_of_Horus_at_Edfu,_Edfu,_AG,_EGY_(48022521191).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Edfu_Temple_R03.jpg/1280px-Edfu_Temple_R03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "지금의 땅보다 낮은 곳에 있는 신전. 한때 최대 12m 깊이의 모래와 흙에 묻혀 있었습니다.",
+   "credit": "Marc Ryckaert · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu_Temple_R03.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Edfu_courtyard_and_pylon.jpg/1280px-Edfu_courtyard_and_pylon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "탑문 안쪽의 열주 안뜰(봉헌의 뜰). 기둥들이 안뜰을 ㄷ자로 둘러싸고 있어요.",
+   "credit": "A. Parrot · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu_courtyard_and_pylon.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Edfu_Tempel_Horus_01.JPG/1280px-Edfu_Tempel_Horus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "다주실 입구를 지키는 검은 화강암 매(호루스) 석상.",
+   "credit": "Olaf Tausch · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu_Tempel_Horus_01.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Edfu_Horus_R01.jpg/1280px-Edfu_Horus_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "호루스 매 석상을 정면에서. 머리에 왕관을 쓰고 있어요.",
+   "credit": "Marc Ryckaert · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu_Horus_R01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Hypostyle_Hall%2C_Temple_of_Horus_at_Edfu%2C_Edfu%2C_AG%2C_EGY_%2848022499578%29.jpg/1280px-Hypostyle_Hall%2C_Temple_of_Horus_at_Edfu%2C_Edfu%2C_AG%2C_EGY_%2848022499578%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "다주실(기둥이 빽빽한 큰 홀)의 기둥머리와 천장 부조.",
+   "credit": "Warren LeMay from Cullowhee, NC, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hypostyle_Hall,_Temple_of_Horus_at_Edfu,_Edfu,_AG,_EGY_(48022499578).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Edfu_naos.jpg/960px-Edfu_naos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "가장 안쪽 성소의 화강암 감실(나오스). 이전 신전에서 물려받은, 신전보다 더 오래된 유물입니다.",
+   "credit": "HoremWeb · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu_naos.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Edfu_Holy_bark_01.jpg/1280px-Edfu_Holy_bark_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "성소에 놓인 신의 배(성선) 재현품. 축제 때 신상을 싣고 행진하던 가마 배입니다.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu_Holy_bark_01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Edfu45.JPG/1280px-Edfu45.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "외벽 회랑의 부조: 호루스가 이시스의 도움을 받아 하마 모습의 세트를 무찌르는 장면.",
+   "credit": "Rémih · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu45.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Flickr_-_schmuela_-_taking_the_knife_to_hippo_Seth.jpg/960px-Flickr_-_schmuela_-_taking_the_knife_to_hippo_Seth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "작살로 하마(세트)를 찌르는 장면. 악당 세트를 일부러 아주 작게 새겼어요.",
+   "credit": "Karen Green · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_schmuela_-_taking_the_knife_to_hippo_Seth.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Edfu._Offerings_gifts._Cartouches_Ptolemy_VIII.jpg/1280px-Edfu._Offerings_gifts._Cartouches_Ptolemy_VIII.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "신에게 제물을 바치는 왕의 부조와 프톨레마이오스 8세의 카르투슈(왕 이름 테두리).",
+   "credit": "Ввласенко · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Edfu._Offerings_gifts._Cartouches_Ptolemy_VIII.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Horse_drawn_carriages_in_Edfu.JPG/1280px-Horse_drawn_carriages_in_Edfu.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "에드푸 선착장 근처에 줄지어 선 마차들. 크루즈 승객은 보통 마차를 타고 신전까지 갑니다.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Horse_drawn_carriages_in_Edfu.JPG"
+  }
+ ],
+ "memHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Memnonkolosse_HDR.jpg/1280px-Memnonkolosse_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "서안 들판에 나란히 앉은 멤논의 거상. 받침대 포함 높이 약 18m, 3,000년 넘게 이 자리를 지켜 왔습니다.",
+  "credit": "Rabax63 · CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Memnonkolosse_HDR.jpg"
+ },
+ "mem": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Colosos_de_Memn%C3%B3n%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_131.jpg/1280px-Colosos_de_Memn%C3%B3n%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "두 거상과 뒤편 테베 산. 원래 거상 뒤에는 아멘호테프 3세의 거대한 장제전(제사 신전)이 있었습니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Colosos_de_Memn%C3%B3n,_Luxor,_Egipto,_2022-04-03,_DD_131.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Memnon2_echelle.JPG/1280px-Memnon2_echelle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "거상 발밑의 사람과 비교하면 크기가 실감 납니다.",
+   "credit": "Kurohito · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Memnon2_echelle.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Colossi_of_Memnon_East_03.jpg/1280px-Colossi_of_Memnon_East_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "윗부분이 여러 층의 블록으로 쌓여 있는 북쪽 거상. 지진 뒤 \"노래하던\" 바로 그 거상으로, 로마 시대에 보수된 것으로 전해집니다.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_East_03.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Colossi_of_Memnon_West_02.jpg/1280px-Colossi_of_Memnon_West_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "또 하나의 거상. 오랜 세월 풍화로 얼굴 모습은 거의 사라졌습니다.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_West_02.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Colossi_of_Memnon_2022_02.jpg/1280px-Colossi_of_Memnon_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아래에서 올려다본 거상. 크게 갈라진 금이 보입니다.",
+   "credit": "Onceinawhile · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_2022_02.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Side_panel_of_Colossi_of_Memnon_2015.JPG/1280px-Side_panel_of_Colossi_of_Memnon_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "거상 옆면. 나일강의 신 \"하피\" 두 명이 마주 보는 부조와 왕비 티이의 조각이 보입니다.",
+   "credit": "MusikAnimal · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Side_panel_of_Colossi_of_Memnon_2015.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ancient_Greek_Graffiti_..._%2836688175375%29.jpg/1280px-Ancient_Greek_Graffiti_..._%2836688175375%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "거상 다리에 남은 고대 그리스어 낙서. 로마 시대 관광객들이 남긴 방문 기록입니다.",
+   "credit": "Bernard DUPONT from FRANCE · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ancient_Greek_Graffiti_..._(36688175375).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hod_hod_soliman_balloons_%28_luxor%2Cegypt%29.jpg/1280px-Hod_hod_soliman_balloons_%28_luxor%2Cegypt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "이른 아침 열기구가 떠 있는 서안 하늘과 거상.",
+   "credit": "Garyow77 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hod_hod_soliman_balloons_(_luxor,egypt).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Eduard_Hildebrandt_-_Die_Kolosse_des_Memnon_in_Theben_%281852%29.jpg/1280px-Eduard_Hildebrandt_-_Die_Kolosse_des_Memnon_in_Theben_%281852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "1852년 독일 화가 에두아르트 힐데브란트가 그린 멤논의 거상. 나일강이 범람하면 거상 발밑까지 물이 찼어요.",
+   "credit": "Eduard Hildebrandt · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Eduard_Hildebrandt_-_Die_Kolosse_des_Memnon_in_Theben_(1852).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Colossi_of_Memnon_R02.jpg/1280px-Colossi_of_Memnon_R02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "울타리 너머로 본 두 거상. 주변에서는 장제전 발굴·복원 작업이 이어지고 있습니다.",
+   "credit": "Marc Ryckaert (MJJR) · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_R02.jpg"
+  }
+ ],
+ "vkHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Luxor_Valley_of_the_Kings_R01.jpg/1280px-Luxor_Valley_of_the_Kings_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "왕가의 계곡으로 들어가는 길. 피라미드 모양의 봉우리 엘쿠른 아래로 관람객용 전동차가 다닙니다.",
+  "credit": "Marc Ryckaert · CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Luxor_Valley_of_the_Kings_R01.jpg"
+ },
+ "vk": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tal_der_K%C3%B6nige_2016-03-22c.jpg/1280px-Tal_der_K%C3%B6nige_2016-03-22c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "왕가의 계곡 위로 솟은 엘쿠른(알쿠른) 봉우리. 자연이 만든 피라미드처럼 보여요.",
+   "credit": "Djehouty · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tal_der_K%C3%B6nige_2016-03-22c.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Thebes%2C_Luxor%2C_Egypt%2C_Valley_of_the_Kings_from_above.jpg/1280px-Thebes%2C_Luxor%2C_Egypt%2C_Valley_of_the_Kings_from_above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "위에서 내려다본 계곡. 바위 틈마다 무덤 입구가 숨어 있습니다.",
+   "credit": "Vyacheslav Argenberg · CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Thebes,_Luxor,_Egypt,_Valley_of_the_Kings_from_above.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Valley_of_the_Kings_model_01.jpg/1280px-Valley_of_the_Kings_model_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "왕가의 계곡 모형. 바위산 속으로 길게 파고 들어간 무덤 통로를 한눈에 볼 수 있어요.",
+   "credit": "Nabbegat · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Valley_of_the_Kings_model_01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%C3%89gypte%2C_Vall%C3%A9e_des_Rois%2C_N%C3%A9cropole_th%C3%A9baine%2C_point_de_d%C3%A9part_de_la_visite_%2849835130737%29.jpg/1280px-%C3%89gypte%2C_Vall%C3%A9e_des_Rois%2C_N%C3%A9cropole_th%C3%A9baine%2C_point_de_d%C3%A9part_de_la_visite_%2849835130737%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "관람 시작 지점. 매표소 쪽에서 전동차(트램)를 타고 계곡 입구까지 이동합니다.",
+   "credit": "Marie Thérèse Hébert & Jean Robert Thibault from Québec, Canada · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%89gypte,_Vall%C3%A9e_des_Rois,_N%C3%A9cropole_th%C3%A9baine,_point_de_d%C3%A9part_de_la_visite_(49835130737).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Valley_of_the_Kings%2C_LG%2C_EGY_%2848010448441%29.jpg/1280px-Valley_of_the_Kings%2C_LG%2C_EGY_%2848010448441%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "무덤 사이를 걷는 관람객들. 그늘이 거의 없어 한낮엔 무척 덥습니다.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Valley_of_the_Kings,_LG,_EGY_(48010448441).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Vall%C3%A9e_Rois_-_Louxor_%28EG%29_-_2025-12-10_-_5.jpg/1280px-Vall%C3%A9e_Rois_-_Louxor_%28EG%29_-_2025-12-10_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "바위 비탈 아래에 뚫린 무덤 입구.",
+   "credit": "Chabe01 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vall%C3%A9e_Rois_-_Louxor_(EG)_-_2025-12-10_-_5.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Tomb_Corridor_B_of_Tomb_KV1_of_Ramesses_VII.jpg/1280px-Tomb_Corridor_B_of_Tomb_KV1_of_Ramesses_VII.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "람세스 7세 무덤(KV1)의 복도. 벽 가득 그림과 상형문자가 남아 있어요.",
+   "credit": "Tobeytravels · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tomb_Corridor_B_of_Tomb_KV1_of_Ramesses_VII.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Tumba_de_Rams%C3%A9s_I%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_103.jpg/1280px-Tumba_de_Rams%C3%A9s_I%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "람세스 1세 무덤(KV16)의 벽화. 파라오가 매 머리의 호루스와 자칼 머리의 아누비스 사이에 서 있습니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tumba_de_Rams%C3%A9s_I,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_103.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_Ramesses_IV%E2%80%99s_Tomb_KV2_burial_chamber.jpg/1280px-View_of_Ramesses_IV%E2%80%99s_Tomb_KV2_burial_chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "람세스 4세 무덤(KV2)의 매장실. 거대한 석관과 화려한 천장 그림.",
+   "credit": "Kristi DeCourcy · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:View_of_Ramesses_IV%E2%80%99s_Tomb_KV2_burial_chamber.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/MERENPTAH_tomb_KV8.jpeg/1280px-MERENPTAH_tomb_KV8.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "메르넵타 무덤(KV8) 안쪽의 거대한 화강암 석관 뚜껑.",
+   "credit": "TropicAces · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:MERENPTAH_tomb_KV8.jpeg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/KV14_Tomb_of_Tausert_and_Setnakht_DSCF3116.jpg/1280px-KV14_Tomb_of_Tausert_and_Setnakht_DSCF3116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "타우스레트·세트나크트 무덤(KV14)의 매장실.",
+   "credit": "R Prazeres · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:KV14_Tomb_of_Tausert_and_Setnakht_DSCF3116.jpg"
+  }
+ ],
+ "hatHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Templo_funerario_de_Hatshepsut%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_118.jpg/1280px-Templo_funerario_de_Hatshepsut%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_118.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "절벽 아래 3단 테라스로 지어진 핫셉슈트 장제전. 긴 경사로를 따라 층층이 올라갑니다.",
+  "credit": "Diego Delso · CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_118.jpg"
+ },
+ "hat": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Thebes%2C_Luxor%2C_Egypt%2C_Panoramic_view_of_Deir_el-Bahari_from_above%2C_Temple_of_Hatshepsut.jpg/1280px-Thebes%2C_Luxor%2C_Egypt%2C_Panoramic_view_of_Deir_el-Bahari_from_above%2C_Temple_of_Hatshepsut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "위쪽 절벽에서 내려다본 장제전. 넓은 테라스가 계단처럼 이어집니다.",
+   "credit": "Vyacheslav Argenberg · CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Thebes,_Luxor,_Egypt,_Panoramic_view_of_Deir_el-Bahari_from_above,_Temple_of_Hatshepsut.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_06.jpg/1280px-Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아침 햇살에 붉게 물든 절벽과 장제전. 이 절벽 너머가 바로 왕가의 계곡입니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_06.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Deir_el-Bahari_2016-03-25c.jpg/1280px-Deir_el-Bahari_2016-03-25c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "정면에서 본 장제전과 데이르 엘 바하리 절벽.",
+   "credit": "Djehouty · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Deir_el-Bahari_2016-03-25c.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Statues%2C_Third_Level%2C_Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_%2848010620422%29.jpg/1280px-Statues%2C_Third_Level%2C_Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_%2848010620422%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "맨 위 테라스의 오시리스 모습 핫셉슈트 석상들. 두 팔을 가슴에 교차하고 있어요.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Statues,_Third_Level,_Mortuary_Temple_of_Hatshepsut,_Luxor,_LG,_EGY_(48010620422).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Statue%2C_Third_Level%2C_Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_%2848010542183%29.jpg/1280px-Statue%2C_Third_Level%2C_Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_%2848010542183%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "오시리스(저승의 신) 모습으로 만든 여왕의 석상을 가까이에서.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Statue,_Third_Level,_Mortuary_Temple_of_Hatshepsut,_Luxor,_LG,_EGY_(48010542183).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Horus_Statue%2C_Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_%2848010672317%29.jpg/1280px-Horus_Statue%2C_Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_%2848010672317%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "경사로 아래를 지키는 호루스 매 석상.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Horus_Statue,_Mortuary_Temple_of_Hatshepsut,_Luxor,_LG,_EGY_(48010672317).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Temple_of_Hathor_at_Deir_el-Bahri_%28I%29_%288030673444%29.jpg/1280px-Temple_of_Hathor_at_Deir_el-Bahri_%28I%29_%288030673444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "하토르 예배당의 기둥. 기둥머리가 소의 귀를 가진 하토르 여신의 얼굴입니다.",
+   "credit": "Institute for the Study of the Ancient World from New York, United States of America · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Temple_of_Hathor_at_Deir_el-Bahri_(I)_(8030673444).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Incense_trees_transport._Punt_relief._Mortuary_Temple_of_Hatshepsut%2C_Deir_el-Bahari.jpg/960px-Incense_trees_transport._Punt_relief._Mortuary_Temple_of_Hatshepsut%2C_Deir_el-Bahari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "푼트 원정 부조: 향나무(유향·몰약 나무)를 화분째 옮기는 장면.",
+   "credit": "Ismoon · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Incense_trees_transport._Punt_relief._Mortuary_Temple_of_Hatshepsut,_Deir_el-Bahari.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Anubis_Chapel%2C_Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_%2848010620688%29.jpg/1280px-Anubis_Chapel%2C_Mortuary_Temple_of_Hatshepsut%2C_Luxor%2C_LG%2C_EGY_%2848010620688%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아누비스 예배당의 채색 부조. 약 3,500년 전 색이 아직 남아 있어요.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Anubis_Chapel,_Mortuary_Temple_of_Hatshepsut,_Luxor,_LG,_EGY_(48010620688).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Erased_relief_of_Seth_and_Horus_blessing_Hatshepsut_in_the_Anubis_Chapel_of_the_Mortuary_Temple_of_Hatshepsut.jpg/1280px-Erased_relief_of_Seth_and_Horus_blessing_Hatshepsut_in_the_Anubis_Chapel_of_the_Mortuary_Temple_of_Hatshepsut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "세트와 호루스가 핫셉슈트를 축복하던 장면. 인물 일부가 끌로 깎여 지워진 흔적이 보입니다.",
+   "credit": "Warren LeMay from Chicago, IL, United States · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Erased_relief_of_Seth_and_Horus_blessing_Hatshepsut_in_the_Anubis_Chapel_of_the_Mortuary_Temple_of_Hatshepsut.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Flickr_-_Gaspa_-_Tempio_di_Hatshepsut%2C_panorama_%282%29.jpg/1280px-Flickr_-_Gaspa_-_Tempio_di_Hatshepsut%2C_panorama_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "멀리서 본 데이르 엘 바하리. 거대한 절벽이 신전을 감싸 안은 모습입니다.",
+   "credit": "Francesco Gasparetti from Senigallia, Italy · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Gaspa_-_Tempio_di_Hatshepsut,_panorama_(2).jpg"
+  }
+ ],
+ "karHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Karnak_temple_complex_12.jpg/1280px-Karnak_temple_complex_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "숫양 머리 스핑크스가 늘어선 길 끝의 카르낙 신전 제1탑문.",
+  "credit": "Hamerani · CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Karnak_temple_complex_12.jpg"
+ },
+ "kar": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_140.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_140.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "숫양 머리 스핑크스. 숫양은 아문 신의 상징이고, 앞발 사이에 왕의 작은 석상이 서 있어요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_140.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_137.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_137.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "카르낙 신전 입구의 제1탑문. 폭이 100m가 넘는 거대한 문입니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_137.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_142.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "제1안뜰. 가운데 홀로 우뚝 선 기둥은 타하르카 왕 시대의 기둥으로 알려져 있어요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_142.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_146.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_146.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "대열주실로 들어가는 길. 양쪽으로 거대한 기둥이 늘어서 있습니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_146.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_148.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_148.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "대열주실의 파피루스 기둥. 기둥마다 신과 왕의 그림이 빼곡히 새겨져 있어요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_148.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_150.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_150.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "대열주실 기둥 꼭대기의 활짝 핀 파피루스 모양 기둥머리.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_150.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_168.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_168.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "기둥 사이로 올려다본 하늘. 134개의 기둥이 숲처럼 서 있습니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_168.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Karnak_Tempel_Obelisk_Hatschepsut_02.JPG/1280px-Karnak_Tempel_Obelisk_Hatschepsut_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "핫셉슈트의 오벨리스크. 화강암 한 덩어리로 만든 높이 약 30m의 탑입니다.",
+   "credit": "Olaf Tausch · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Karnak_Tempel_Obelisk_Hatschepsut_02.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_159.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_159.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "카르낙 신전 안쪽에 서 있는 오벨리스크들.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_159.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "성스러운 호수. 사제들이 의식 전에 몸을 씻던 곳입니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_156.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_157.jpg/1280px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "성스러운 호수 옆의 거대한 풍뎅이(스카라베) 석상.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_157.jpg"
+  }
+ ],
+ "luxHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Louxor_dromos_%26_pyl%C3%B4ne.JPG/1280px-Louxor_dromos_%26_pyl%C3%B4ne.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "스핑크스 길 끝에 선 룩소르 신전 탑문과 오벨리스크.",
+  "credit": "Neithsabes · Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Louxor_dromos_%26_pyl%C3%B4ne.JPG"
+ },
+ "lux": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Luxor_temple_entrance.JPG/1280px-Luxor_temple_entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "룩소르 신전 입구. 오벨리스크 한 개와 람세스 2세 석상들이 지킵니다. 원래 오벨리스크가 하나 더 있었어요.",
+   "credit": "Ad Meskens · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor_temple_entrance.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Luxor_Temple_R04.jpg/1280px-Luxor_Temple_R04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "룩소르 신전 전경. 탑문 뒤로 열주와, 신전 위에 지은 아부 하가그 모스크의 첨탑이 보입니다.",
+   "credit": "Marc Ryckaert · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor_Temple_R04.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Abu_el-Haggag_R03.jpg/1280px-Abu_el-Haggag_R03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "신전 유적 위에 세워진 아부 하가그 모스크. 지금도 기도하는 곳으로 쓰입니다.",
+   "credit": "Marc Ryckaert · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Abu_el-Haggag_R03.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_31.jpg/1280px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "람세스 2세 안뜰. 파피루스 기둥 사이에 람세스 2세 석상들이 서 있어요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_31.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_36.jpg/1280px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "룩소르 신전의 람세스 2세 입상.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_36.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_21.jpg/1280px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "룩소르 신전의 거대한 파피루스 기둥들.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_21.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Luxor_Sphinxallee_03.jpg/1280px-Luxor_Sphinxallee_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "카르낙 신전과 룩소르 신전을 잇는 스핑크스 길(약 2.7km).",
+   "credit": "Olaf Tausch · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor_Sphinxallee_03.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_42.jpg/1280px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "복원된 스핑크스 길. 2021년 11월 성대한 행사와 함께 다시 공개되었습니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Templo_de_Luxor,_Luxor,_Egipto,_2022-04-01,_DD_42.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A7%D9%82%D8%B5%D8%B1_%D9%84%D9%8A%D9%84%D8%A7_-_%D9%85%D8%B5%D8%B1.JPG/1280px-%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A7%D9%82%D8%B5%D8%B1_%D9%84%D9%8A%D9%84%D8%A7_-_%D9%85%D8%B5%D8%B1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "밤의 룩소르 신전. 조명이 켜지면 전혀 다른 분위기가 됩니다.",
+   "credit": "Mohammed Moussa · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A7%D9%82%D8%B5%D8%B1_%D9%84%D9%8A%D9%84%D8%A7_-_%D9%85%D8%B5%D8%B1.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Luxor_temple_at_Night.jpg/1280px-Luxor_temple_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "조명이 켜진 스핑크스 길과 룩소르 신전 야경.",
+   "credit": "Mohammed Moussa · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Luxor_temple_at_Night.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Ob%C3%A9lisque_Louqsor_Concorde_a.jpg/1280px-Ob%C3%A9lisque_Louqsor_Concorde_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "파리 콩코르드 광장의 룩소르 오벨리스크. 원래 룩소르 신전 입구에 있던 쌍둥이 중 하나입니다.",
+   "credit": "Jebulon · CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ob%C3%A9lisque_Louqsor_Concorde_a.jpg"
+  }
+ ],
+ "opt": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Tomb_of_Tutankhamun_sign.jpg/1280px-Tomb_of_Tutankhamun_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "투탕카멘 무덤 입구의 표지판 \"No.62\". 왕가의 계곡 62번째로 발견된 무덤(KV62)이라는 뜻입니다.",
+   "credit": "Joshdboz · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Tomb_of_Tutankhamun_sign.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/KV62%2C_Egypt_01.jpg/1280px-KV62%2C_Egypt_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "투탕카멘 무덤(KV62)의 매장실. 돌 석관과 노란 바탕의 벽화가 있습니다.",
+   "credit": "ولاء · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:KV62,_Egypt_01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Tumba_de_Tutankam%C3%B3n%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_75.jpg/1280px-Tumba_de_Tutankam%C3%B3n%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_75.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "투탕카멘 매장실의 벽화. 왕과 신들의 모습이 그려져 있어요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tumba_de_Tutankam%C3%B3n,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_75.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/KV62%2C_Egypt_15.jpg/1280px-KV62%2C_Egypt_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "투탕카멘 미라가 보존된 유리 케이스(전실). 실제 미라를 볼 수 있습니다.",
+   "credit": "ولاء · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:KV62,_Egypt_15.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/KV17%2C_the_tomb_of_Pharaoh_Seti_I_of_the_Nineteenth_Dynasty%2C_Pillared_Chamber_F%2C_left_pillar_Seti_before_Hathor_as_Goddess_of_the_West%2C_right_pillar_Seti_before_Isis%2C_Valley_of_the_Kings%2C_Egypt_%2849846646197%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "세티 1세 무덤(KV17)의 기둥 방. 기둥마다 세티 1세가 여신들 앞에 선 모습이 그려져 있어요.",
+   "credit": "Carole Raddato from Frankfurt, Germany · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:KV17,_the_tomb_of_Pharaoh_Seti_I_of_the_Nineteenth_Dynasty,_Pillared_Chamber_F,_left_pillar_Seti_before_Hathor_as_Goddess_of_the_West,_right_pillar_Seti_before_Isis,_Valley_of_the_Kings,_Egypt_(49846646197).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/KV17%2C_the_tomb_of_Pharaoh_Seti_I_of_the_Nineteenth_Dynasty%2C_Corridor_D_decorated_with_the_fourth_hour_of_the_Amduat%2C_Valley_of_the_Kings%2C_Egypt_%2849846343896%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "세티 1세 무덤의 복도. 저승 안내서 \"암두아트\"의 장면으로 장식되어 있습니다.",
+   "credit": "Carole Raddato from Frankfurt, Germany · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:KV17,_the_tomb_of_Pharaoh_Seti_I_of_the_Nineteenth_Dynasty,_Corridor_D_decorated_with_the_fourth_hour_of_the_Amduat,_Valley_of_the_Kings,_Egypt_(49846343896).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_69.jpg/1280px-Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_69.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "람세스 5·6세 무덤(KV9)의 긴 복도. 천장까지 빈틈없이 그림으로 덮여 있어요.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_69.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_54.jpg/1280px-Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_54.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "람세스 5·6세 무덤의 매장실. 깨진 석관 위로 하늘의 여신 누트가 그려진 천장이 펼쳐집니다.",
+   "credit": "Diego Delso · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI,_Valle_de_las_Reyes,_Luxor,_Egipto,_2022-04-03,_DD_54.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Darstellung_der_Nut_im_Grabmal_KV9.jpg/1280px-Darstellung_der_Nut_im_Grabmal_KV9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "KV9 천장의 하늘 여신 누트. 저녁에 해를 삼키고 아침에 다시 낳는다고 믿었어요.",
+   "credit": "Chrisi1964 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Darstellung_der_Nut_im_Grabmal_KV9.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Egypt_%28Luxor%29_Caleches%2C_horse_carriages%2C_waiting_for_travellers_%2825709030843%29.jpg/1280px-Egypt_%28Luxor%29_Caleches%2C_horse_carriages%2C_waiting_for_travellers_%2825709030843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "룩소르 거리에서 손님을 기다리는 마차(칼레쉬).",
+   "credit": "Güldem Üstün from Istanbul, TURKEY · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Egypt_(Luxor)_Caleches,_horse_carriages,_waiting_for_travellers_(25709030843).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Louxor.-_Cal%C3%A8che_en_2007_%282%29.jpg/1280px-Louxor.-_Cal%C3%A8che_en_2007_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "룩소르의 마차와 말. 탑승 전 말의 상태를 꼭 살펴보세요.",
+   "credit": "Pierre André Leclercq · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Louxor.-_Cal%C3%A8che_en_2007_(2).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%D8%B7%D8%B1%D9%8A%D9%82_%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B4_%D9%84%D9%8A%D9%84%D8%A7.jpg/1280px-%D8%B7%D8%B1%D9%8A%D9%82_%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B4_%D9%84%D9%8A%D9%84%D8%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "밤의 스핑크스 길. 마차 투어 뒤 룩소르 신전 야간 관람으로 이어집니다.",
+   "credit": "Nizar Barrak · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%B7%D8%B1%D9%8A%D9%82_%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B4_%D9%84%D9%8A%D9%84%D8%A7.jpg"
+  }
+ ]
+}
