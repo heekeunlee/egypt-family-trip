@@ -1,6 +1,7 @@
 import { ALEX_DAY_TIPS, ALEX_INTRO, SPOTS, type Photo, type Spot } from './guides'
 import { GIZA_DAY_TIPS, GIZA_EXTRA, GIZA_INTRO, GIZA_SPOTS } from './guidesGiza'
 import { HRG_DAY_TIPS, HRG_EXTRA, HRG_INTRO, HRG_SPOTS } from './guidesHurghada'
+import { ABU_DAY_TIPS, ABU_INTRO, ABU_SPOTS } from './guidesAbuSimbel'
 
 export type DayGuide = {
   label: string
@@ -44,6 +45,14 @@ export const GUIDES: Record<string, DayGuide> = {
     spots: HRG_SPOTS,
     dayTips: HRG_DAY_TIPS,
     extra: HRG_EXTRA,
+  },
+  abusimbel: {
+    label: '아부심벨·콤옴보',
+    step: 'DAY 4 · 11/24(화)',
+    timelineTitle: '아부심벨과 콤옴보 연표',
+    intro: ABU_INTRO,
+    spots: ABU_SPOTS,
+    dayTips: ABU_DAY_TIPS,
   },
 }
 
