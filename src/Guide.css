@@ -121,3 +121,5 @@
 .g-thumb img { display: block; width: 132px; height: 99px; object-fit: cover; }
 .g-note { color: var(--muted); font-size: 12px; margin-top: 4px; }
 @media (max-width: 480px) { .g-look li.has-pic { grid-template-columns: 104px 1fr; gap: 10px; } .g-thumb img { width: 104px; height: 78px; } }
+/* 아주 가로로 긴 사진(손목밴드)은 잘리지 않게 통째로 보여 줌 */
+.g-thumb img[src*="All-inclusive"] { object-fit: contain; background: #fff; }
