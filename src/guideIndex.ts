@@ -3,6 +3,7 @@ import { GIZA_DAY_TIPS, GIZA_EXTRA, GIZA_INTRO, GIZA_SPOTS } from './guidesGiza'
 import { HRG_DAY_TIPS, HRG_EXTRA, HRG_INTRO, HRG_SPOTS } from './guidesHurghada'
 import { ABU_DAY_TIPS, ABU_INTRO, ABU_SPOTS } from './guidesAbuSimbel'
 import { ASWAN_DAY_TIPS, ASWAN_EXTRA, ASWAN_INTRO, ASWAN_SPOTS } from './guidesAswan'
+import { OC_DAY_TIPS, OC_EXTRA, OC_INTRO, OC_SPOTS } from './guidesOldCairo'
 
 export type DayGuide = {
   label: string
@@ -63,6 +64,15 @@ export const GUIDES: Record<string, DayGuide> = {
     spots: ASWAN_SPOTS,
     dayTips: ASWAN_DAY_TIPS,
     extra: ASWAN_EXTRA,
+  },
+  oldcairo: {
+    label: '올드 카이로',
+    step: 'DAY 8 · 11/28(토)',
+    timelineTitle: '올드 카이로 연표',
+    intro: OC_INTRO,
+    spots: OC_SPOTS,
+    dayTips: OC_DAY_TIPS,
+    extra: OC_EXTRA,
   },
 }
 

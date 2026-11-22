@@ -1,0 +1,348 @@
+{
+ "introHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Hanging_Church%2C_Old_Cairo%2C_Egypt4.jpg/1280px-Hanging_Church%2C_Old_Cairo%2C_Egypt4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "올드 카이로 골목에서 올려다본 공중교회의 쌍둥이 종탑. 콥트 지구는 이런 좁은 골목으로 이어져 있습니다.",
+  "credit": "Diego Delso · CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hanging_Church,_Old_Cairo,_Egypt4.jpg"
+ },
+ "babHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Fortress_of_Babylon%2C_built_by_Diocletian_300_CE%3B_Old_Cairo_%282%29_%2852087201968%29.jpg/1280px-Fortress_of_Babylon%2C_built_by_Diocletian_300_CE%3B_Old_Cairo_%282%29_%2852087201968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "디오클레티아누스 황제 때(약 300년) 세워진 바빌론 요새의 탑. 땅을 파 내려가 원래 높이를 드러냈습니다.",
+  "credit": "Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fortress_of_Babylon,_built_by_Diocletian_300_CE;_Old_Cairo_(2)_(52087201968).jpg"
+ },
+ "bab": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kairo_-_Altkairo_01.jpg/1280px-Kairo_-_Altkairo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "거리에서 보이는 로마 시대 원형 탑. 돌과 붉은 벽돌을 번갈아 쌓은 줄무늬가 특징입니다.",
+   "credit": "Djehouty · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kairo_-_Altkairo_01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Kairo_-_Altkairo_02.jpg/1280px-Kairo_-_Altkairo_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "요새 벽 가까이에서 본 모습. 흰 석회암 사이에 붉은 벽돌 층을 끼워 넣은 로마식 쌓기입니다.",
+   "credit": "Djehouty · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kairo_-_Altkairo_02.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Babylon_Fortress-1.jpg/1280px-Babylon_Fortress-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "발굴된 요새 탑. 지금의 땅이 로마 시대보다 수 미터 높아져, 탑 아랫부분은 구덩이 속에 있습니다.",
+   "credit": "Ahmed Yousry Mahfouz · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Babylon_Fortress-1.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Babylon_Fortress-2.jpg/1280px-Babylon_Fortress-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "요새 성벽을 따라 낮게 파인 발굴 구역. 뒤로 또 다른 원형 탑이 보입니다.",
+   "credit": "Ahmed Yousry Mahfouz · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Babylon_Fortress-2.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Cairo_Babylon_fortress_gate_DSCF2313.jpg/1280px-Cairo_Babylon_fortress_gate_DSCF2313.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "요새의 거대한 원형 탑. 지금은 그 위와 옆으로 교회 건물이 붙어 있습니다.",
+   "credit": "R Prazeres · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo_Babylon_fortress_gate_DSCF2313.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Cairo_Babylon_fortress_gate_DSCF2192.jpg/1280px-Cairo_Babylon_fortress_gate_DSCF2192.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "요새 탑 바로 옆 아래로 내려앉은 문. 로마 시대 지면이 얼마나 낮았는지 알 수 있어요.",
+   "credit": "R Prazeres · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo_Babylon_fortress_gate_DSCF2192.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Babylon_Fortress_%281%29.jpg/1280px-Babylon_Fortress_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "위에서 내려다본 원형 탑의 내부. 아치형 창과 벽돌 구조가 그대로 남아 있습니다.",
+   "credit": "Mohamed Ouda · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Babylon_Fortress_(1).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/The_story_of_Cairo_%281906%29_%2814779076661%29.jpg/1280px-The_story_of_Cairo_%281906%29_%2814779076661%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "1906년 책에 실린 요새 탑 그림. 100여 년 전에는 탑이 모래와 흙에 반쯤 묻혀 있었습니다.",
+   "credit": "Internet Archive Book Images · No restrictions",
+   "page": "https://commons.wikimedia.org/wiki/File:The_story_of_Cairo_(1906)_(14779076661).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Coptic_Museum_in_Cairo.jpg/1280px-Coptic_Museum_in_Cairo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "요새 안쪽에 자리한 콥트 박물관. 이집트 기독교 미술품을 모아 둔 곳입니다.",
+   "credit": "Radosław Botev · CC BY 3.0 pl",
+   "page": "https://commons.wikimedia.org/wiki/File:Coptic_Museum_in_Cairo.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Grounds_of_the_Coptic_Museum_in_Old_Cairo_%287%29_%2852087171251%29.jpg/1280px-Grounds_of_the_Coptic_Museum_in_Old_Cairo_%287%29_%2852087171251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "콥트 박물관 정원과 나무 격자창(마슈라비야) 건물.",
+   "credit": "Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Grounds_of_the_Coptic_Museum_in_Old_Cairo_(7)_(52087171251).jpg"
+  }
+ ],
+ "hangHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Hanging_Church_in_Old_Cairo%2C_7th_century_%282%29_%2852086134427%29.jpg/1280px-Hanging_Church_in_Old_Cairo%2C_7th_century_%282%29_%2852086134427%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "공중교회(알 무알라카)의 하얀 쌍둥이 종탑. 19세기에 정비된 정면입니다.",
+  "credit": "Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hanging_Church_in_Old_Cairo,_7th_century_(2)_(52086134427).jpg"
+ },
+ "hang": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kairo_-_al-Moallaqa_09.JPG/1280px-Kairo_-_al-Moallaqa_09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "거리 입구에서 본 공중교회. 안뜰을 지나 계단을 올라가야 본당에 닿습니다.",
+   "credit": "Djehouty · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kairo_-_al-Moallaqa_09.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/By_ovedc_-_Hanging_Church_%28Cairo%29_-_01.jpg/1280px-By_ovedc_-_Hanging_Church_%28Cairo%29_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "안뜰과 본당으로 올라가는 계단. 계단이 많아 옛 여행자들은 \"계단 교회\"라고 불렀습니다.",
+   "credit": "Ovedc · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Hanging_Church_(Cairo)_-_01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Hanging_Church_2022_05.jpg/1280px-Hanging_Church_2022_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "교회 안 나무 창문 아래로 내려다보이는 로마 요새의 탑. 교회가 요새 위에 \"걸려\" 있다는 증거입니다.",
+   "credit": "Onceinawhile · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hanging_Church_2022_05.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Views_from_the_bottom_of_the_Hanging_Church.JPG/1280px-Views_from_the_bottom_of_the_Hanging_Church.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "아래쪽 길에서 올려다본 공중교회. 건물이 높은 곳에 얹혀 있는 느낌이 납니다.",
+   "credit": "Ahmed Younis Sif Saad · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Views_from_the_bottom_of_the_Hanging_Church.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/By_ovedc_-_Hanging_Church_%28Cairo%29_-_08.jpg/1280px-By_ovedc_-_Hanging_Church_%28Cairo%29_-_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "본당 앞 현관(포치). 아치와 기둥, 섬세한 나무 장식이 있습니다.",
+   "credit": "Ovedc · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Hanging_Church_(Cairo)_-_08.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Hanging_Church_in_Old_Cairo%2C_7th_century_%286%29_%2852087192343%29.jpg/1280px-Hanging_Church_in_Old_Cairo%2C_7th_century_%286%29_%2852087192343%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "본당 내부. 머리 위 나무 지붕 구조가 배(노아의 방주)를 뒤집어 놓은 모양에 비유됩니다.",
+   "credit": "Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hanging_Church_in_Old_Cairo,_7th_century_(6)_(52087192343).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Kairo_-_al-Moallaqa_01.JPG/1280px-Kairo_-_al-Moallaqa_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "제단 앞 칸막이(이코노스타시스). 흑단에 상아를 박아 넣은 무늬가 아름답습니다.",
+   "credit": "Djehouty · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kairo_-_al-Moallaqa_01.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Kairo_-_al-Moallaqa_03.JPG/1280px-Kairo_-_al-Moallaqa_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "칸막이 장식을 가까이서 본 모습. 상아로 만든 별 무늬가 반짝입니다.",
+   "credit": "Djehouty · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kairo_-_al-Moallaqa_03.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Marble_pulpit_in_the_Hanging_Church_in_Old_Cairo%2C_7th_century_%2813%29_%2852087189818%29.jpg/1280px-Marble_pulpit_in_the_Hanging_Church_in_Old_Cairo%2C_7th_century_%2813%29_%2852087189818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "대리석 설교단. 가느다란 기둥들이 받치고 있습니다.",
+   "credit": "Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Marble_pulpit_in_the_Hanging_Church_in_Old_Cairo,_7th_century_(13)_(52087189818).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Cairo_-_Coptic_area_-_Hanging_Church_courtyard_-_tile_mural_showing_holy_family_traveling.JPG/1280px-Cairo_-_Coptic_area_-_Hanging_Church_courtyard_-_tile_mural_showing_holy_family_traveling.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "안뜰의 타일 벽화. 요셉이 이끄는 당나귀에 아기 예수를 안은 마리아가 타고 이집트로 피난하는 장면입니다.",
+   "credit": "Daniel Mayer · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo_-_Coptic_area_-_Hanging_Church_courtyard_-_tile_mural_showing_holy_family_traveling.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Hanging_Church_2022_14.jpg/1280px-Hanging_Church_2022_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "교회 안에 걸린 \"성가족의 이집트 여정\" 지도. 전승에 따른 피난 경로가 표시되어 있습니다.",
+   "credit": "Onceinawhile · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hanging_Church_2022_14.jpg"
+  }
+ ],
+ "sergHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Church_of_Sts._Sergius_and_Bacchus_%28Abu_Serga%29_in_Old_Cairo%2C_4th_century_%284%29_%2852087179896%29.jpg/1280px-Church_of_Sts._Sergius_and_Bacchus_%28Abu_Serga%29_in_Old_Cairo%2C_4th_century_%284%29_%2852087179896%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "아기예수 피난교회(아부 세르가) 내부. 대리석 기둥이 늘어선 바실리카 양식입니다.",
+  "credit": "Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Church_of_Sts._Sergius_and_Bacchus_(Abu_Serga)_in_Old_Cairo,_4th_century_(4)_(52087179896).jpg"
+ },
+ "serg": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Abu_Serga_02.jpg/1280px-Abu_Serga_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "교회로 가는 골목 입구의 부조. 당나귀를 탄 마리아와 아기 예수, 요셉의 피난 장면입니다.",
+   "credit": "Olaf Tausch · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Abu_Serga_02.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Abu_Serga_01.jpg/1280px-Abu_Serga_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "교회로 이어지는 좁은 골목. 골목 끝 아치 위에 피난 부조가 보입니다.",
+   "credit": "Olaf Tausch · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Abu_Serga_01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Church_of_Sts._Sergius_and_Bacchus_%28Abu_Serga%29_in_Old_Cairo%2C_4th_century_%289%29_%2852087677920%29.jpg/1280px-Church_of_Sts._Sergius_and_Bacchus_%28Abu_Serga%29_in_Old_Cairo%2C_4th_century_%289%29_%2852087677920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "교회 외벽. 오래된 벽돌과 나무 격자창, 낮은 출입문이 남아 있습니다.",
+   "credit": "Richard Mortel from Riyadh, Saudi Arabia · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Church_of_Sts._Sergius_and_Bacchus_(Abu_Serga)_in_Old_Cairo,_4th_century_(9)_(52087677920).jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Saints_Sergius_and_Bacchus_Church%2C_Cairo_2022_08.jpg/1280px-Saints_Sergius_and_Bacchus_Church%2C_Cairo_2022_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "지하 동굴(크립트)로 내려가는 입구. \"성가족이 머물렀던 동굴\"이라는 안내판이 붙어 있습니다.",
+   "credit": "Onceinawhile · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Saints_Sergius_and_Bacchus_Church,_Cairo_2022_08.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Abu_Serga_11.jpg/1280px-Abu_Serga_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "크립트 내부. 기둥이 늘어선 작은 공간 끝에 제단이 있습니다.",
+   "credit": "Olaf Tausch · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Abu_Serga_11.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%C3%84lteste_Kirche_Kairos._02.jpg/1280px-%C3%84lteste_Kirche_Kairos._02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "둥근 천장과 기둥이 있는 크립트 전경. 성가족이 쉬어 갔다고 전해지는 곳입니다.",
+   "credit": "Holger Uwe Schmitt · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%84lteste_Kirche_Kairos._02.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Abu_Serga_10.jpg/1280px-Abu_Serga_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "바닥의 유리창으로 들여다보는 아래쪽 크립트.",
+   "credit": "Olaf Tausch · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Abu_Serga_10.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Cairo%2C_chiesa_di_san_sergio%2C_iconostasi_con_intarsi_in_avorio.JPG/1280px-Cairo%2C_chiesa_di_san_sergio%2C_iconostasi_con_intarsi_in_avorio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "제단 칸막이의 상아 상감 무늬. 십자가와 별 모양이 반복됩니다.",
+   "credit": "Sailko · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo,_chiesa_di_san_sergio,_iconostasi_con_intarsi_in_avorio.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Cairo%2C_chiesa_di_san_sergio%2C_iconostasi_con_intagli_02.JPG/1280px-Cairo%2C_chiesa_di_san_sergio%2C_iconostasi_con_intagli_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "칸막이에 새겨진 나무 조각. 말을 탄 성인이 조각되어 있습니다.",
+   "credit": "Sailko · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo,_chiesa_di_san_sergio,_iconostasi_con_intagli_02.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Cairo%2C_chiesa_di_san_sergio%2C_pulpito.JPG/1280px-Cairo%2C_chiesa_di_san_sergio%2C_pulpito.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "교회 안의 설교단과 대리석 기둥.",
+   "credit": "Sailko · CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo,_chiesa_di_san_sergio,_pulpito.JPG"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%C3%84lteste_Kirche_Kairos._12.jpg/1280px-%C3%84lteste_Kirche_Kairos._12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "교회에 걸린 \"이집트로의 피난\" 이콘. 당나귀를 탄 마리아와 아기 예수를 그렸습니다.",
+   "credit": "Holger Uwe Schmitt · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%84lteste_Kirche_Kairos._12.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_well_which_the_Holy_Family_drank_from.jpg/1280px-The_well_which_the_Holy_Family_drank_from.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "\"성가족이 물을 마신 우물\"이라는 글귀가 둘린 우물 덮개.",
+   "credit": "Ahmed Yousry Mahfouz · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:The_well_which_the_Holy_Family_drank_from.jpg"
+  }
+ ],
+ "ezraHero": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ben_ezra_synagogue_%282638677965%29.jpg/1280px-Ben_ezra_synagogue_%282638677965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "caption": "벤 에즈라 회당 외관. 지금 건물은 1890년대에 다시 지은 것입니다.",
+  "credit": "kmf164 · CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ben_ezra_synagogue_(2638677965).jpg"
+ },
+ "ezra": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%89_%D8%A8%D9%85%D8%AC%D9%85%D8%B9_%D8%A7%D9%84%D8%A7%D8%AF%D9%8A%D8%A7%D9%86.jpg/1280px-%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%89_%D8%A8%D9%85%D8%AC%D9%85%D8%B9_%D8%A7%D9%84%D8%A7%D8%AF%D9%8A%D8%A7%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "옆에서 본 회당. 노란 벽과 높은 아치형 창이 특징입니다.",
+   "credit": "Mohamed kamal 1984 · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%89_%D8%A8%D9%85%D8%AC%D9%85%D8%B9_%D8%A7%D9%84%D8%A7%D8%AF%D9%8A%D8%A7%D9%86.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ben_Ezra_Synagogue-3.jpg/1280px-Ben_Ezra_Synagogue-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "회당으로 들어가는 입구. 문 위에 다윗의 별이 보입니다.",
+   "credit": "Faris knight · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ben_Ezra_Synagogue-3.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ben_Ezra_Synagogue_Interior.jpg/1280px-Ben_Ezra_Synagogue_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "회당 내부. 가운데 팔각형 단(비마)에서 성경을 낭독했습니다.",
+   "credit": "Schlanger · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ben_Ezra_Synagogue_Interior.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/By_ovedc_-_Ben_Ezra_Synagogue_-_02.jpg/1280px-By_ovedc_-_Ben_Ezra_Synagogue_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "기둥과 2층 회랑이 있는 회당 내부. 줄무늬 아치 장식이 화려합니다.",
+   "credit": "Ovedc · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:By_ovedc_-_Ben_Ezra_Synagogue_-_02.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%D8%AF%D8%A7%D8%AE%D9%84_%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A_%D8%A8%D9%85%D8%AC%D9%85%D8%B9_%D8%A7%D9%84%D8%A3%D8%AF%D9%8A%D8%A7%D9%86_%D9%85%D8%B5%D8%B1_%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9.jpg/1280px-%D8%AF%D8%A7%D8%AE%D9%84_%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A_%D8%A8%D9%85%D8%AC%D9%85%D8%B9_%D8%A7%D9%84%D8%A3%D8%AF%D9%8A%D8%A7%D9%86_%D9%85%D8%B5%D8%B1_%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "토라 두루마리를 모셔 두던 성궤 앞 계단과 촛대.",
+   "credit": "Abdelrahman Farag · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D8%AF%D8%A7%D8%AE%D9%84_%D8%A7%D9%84%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A_%D8%A8%D9%85%D8%AC%D9%85%D8%B9_%D8%A7%D9%84%D8%A3%D8%AF%D9%8A%D8%A7%D9%86_%D9%85%D8%B5%D8%B1_%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85%D8%A9.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Well_of_Moses-Ben_Ezra_Synagogue.jpg/1280px-Well_of_Moses-Ben_Ezra_Synagogue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "회당 뒤뜰의 \"모세의 우물\". 아기 모세가 발견된 곳이라는 전설이 있습니다.",
+   "credit": "Faris knight · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Well_of_Moses-Ben_Ezra_Synagogue.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Solomon_Schechter_studying_the_fragments_of_the_Cairo_Genizah%2C_c._1898.jpg/1280px-Solomon_Schechter_studying_the_fragments_of_the_Cairo_Genizah%2C_c._1898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "1898년경 케임브리지에서 카이로 게니자 문서 조각을 연구하는 솔로몬 셱터.",
+   "credit": "unknown · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Solomon_Schechter_studying_the_fragments_of_the_Cairo_Genizah,_c._1898.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Halper_462_Genealogy_of_the_Exilarchs_to_David_and_Adam%2C_Cairo_Geniza.jpg/1280px-Halper_462_Genealogy_of_the_Exilarchs_to_David_and_Adam%2C_Cairo_Geniza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "카이로 게니자에서 나온 옛 문서 조각. 히브리 문자로 쓰여 있습니다.",
+   "credit": "Avraham ben Tamim, al-Raḥbi (12th c.) · Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Halper_462_Genealogy_of_the_Exilarchs_to_David_and_Adam,_Cairo_Geniza.jpg"
+  }
+ ],
+ "extra": [
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Shop_at_khan_el_khalili.jpg/1280px-Shop_at_khan_el_khalili.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "칸 엘 칼릴리 시장의 등불 가게. 색유리 램프는 대표적인 카이로 기념품입니다.",
+   "credit": "Magoopic · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Shop_at_khan_el_khalili.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Cairo_Khan_El_Khalily_souvenir_shop.jpg/1280px-Cairo_Khan_El_Khalily_souvenir_shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "구리 접시와 장식품이 가득한 카이로 기념품 가게.",
+   "credit": "Mmelouk · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo_Khan_El_Khalily_souvenir_shop.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Cairo_-_Khan_al-Khalili_spice_market_1994.jpg/1280px-Cairo_-_Khan_al-Khalili_spice_market_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "칸 엘 칼릴리의 향신료 가게. 자루마다 다른 향신료와 말린 허브가 담겨 있습니다.",
+   "credit": "Jon Gudorf Photography · CC BY-SA 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo_-_Khan_al-Khalili_spice_market_1994.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/A_glass_of_hibiscus_tea_01.jpg/1280px-A_glass_of_hibiscus_tea_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "루비색 히비스커스 차(카르카데). 말린 꽃잎은 가볍고 선물용으로 좋습니다.",
+   "credit": "claralieu · CC BY 2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_glass_of_hibiscus_tea_01.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Slicing_papyrus_2.jpg/1280px-Slicing_papyrus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "파피루스 줄기를 얇게 써는 모습. 진짜 파피루스 종이는 이렇게 만듭니다.",
+   "credit": "FrogUnderALilyPad · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Slicing_papyrus_2.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/101A0217.jpg/1280px-101A0217.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "갓 수확한 이집트 대추야자. 말린 대추야자는 인기 간식 선물입니다.",
+   "credit": "Mahmoudfajjour · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:101A0217.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Gossypium_barbadense-IMG_0230.jpg/1280px-Gossypium_barbadense-IMG_0230.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "이집트 면(長섬유 목화)의 꽃. \"이집션 코튼\"은 부드러운 고급 면으로 유명합니다.",
+   "credit": "C T Johansson · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gossypium_barbadense-IMG_0230.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cairo_Airport_Terminal_3.jpg/1280px-Cairo_Airport_Terminal_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "카이로 국제공항 제3터미널 출국장 앞.",
+   "credit": "Alensha · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairo_Airport_Terminal_3.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/CairoIntlAirportT3DutyFree.jpg/1280px-CairoIntlAirportT3DutyFree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "카이로 공항 제3터미널의 면세 구역.",
+   "credit": "Roland Unger · CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:CairoIntlAirportT3DutyFree.jpg"
+  },
+  {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Doha_Hamad_International_Airport_2.jpg/1280px-Doha_Hamad_International_Airport_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "caption": "환승지 도하 하마드 국제공항 안의 실내 정원.",
+   "credit": "Slyronit · CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Doha_Hamad_International_Airport_2.jpg"
+  }
+ ]
+}
